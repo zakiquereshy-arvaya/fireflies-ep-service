@@ -9,6 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+.env.*
+!.env.example
 
 # Downloaded transcripts
 downloaded_transcripts/
