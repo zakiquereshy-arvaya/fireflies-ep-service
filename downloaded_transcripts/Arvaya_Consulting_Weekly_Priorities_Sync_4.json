@@ -1,0 +1,4130 @@
+{
+  "metadata": {
+    "id": "01KDQZ9ZNT1BA96A6BYDP6NDS3",
+    "title": "Arvaya Consulting | Weekly Priorities Sync",
+    "date": "2026-01-05 14:00:00"
+  },
+  "participants": [
+    "Mark Lohr",
+    "Ashlee Jack",
+    "Ryan Botindari",
+    "Zaki Quereshy",
+    "Todd Fernley",
+    "Rachael Lindblom",
+    "Kyle Dalton",
+    "David Hogg",
+    "Addie",
+    "assistance"
+  ],
+  "transcript": [
+    {
+      "speaker": "Mark Lohr",
+      "text": "Good morning."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Good morning."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Good morning, everyone."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Hello."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Good morning."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Good morning."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Wow, this is a pretty big team now."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "How is everyone."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Doing?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Great."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Happy New Year."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Well, happy New Year's."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so I wanted to just go ahead and start by welcoming our three new employees and then also Zachy and Mark for joining us full time."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So pretty excited for everyone to join the team."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then if everyone, Todd and Rachel and Kyle, if y' all want to start off with talking about who you are, we can start with Todd."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Hey, everyone."
+    },
+    {
+      "speaker": "Todd Fernley",
+      "text": "Nice to meet you."
+    },
+    {
+      "speaker": "Todd Fernley",
+      "text": "Looking forward to working with you."
+    },
+    {
+      "speaker": "Todd Fernley",
+      "text": "As a quick background on me, I've been with the government doing contract with them about 11 years."
+    },
+    {
+      "speaker": "Todd Fernley",
+      "text": "Did White House, GSA, NIH in the last five years in the split between treasury and Homeland Security, but looking forward to getting started."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Rachel, do you want to go next?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Sure."
+    },
+    {
+      "speaker": "Rachael Lindblom",
+      "text": "I'm Rachel."
+    },
+    {
+      "speaker": "Rachael Lindblom",
+      "text": "I've owned a digital marketing company for the past five years and was looking for something a little more in house."
+    },
+    {
+      "speaker": "Rachael Lindblom",
+      "text": "And so I connected with Ashley."
+    },
+    {
+      "speaker": "Rachael Lindblom",
+      "text": "I have background in business and law, but yeah, I'm excited to work with you all."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then Kyle."
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "Yeah, so come from a very management, heavy background of work management for my last eight, nine years and really big emphasis on training."
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "So here to help kind of create and drive some efficiency through some training modules through Monday.com and AI and yeah, that's a little bit about myself."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so, Kyle, you've already worked with both Ryan and David, so you're pretty familiar with each other, right?"
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "Yes, I have, unfortunately, but fortunately."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Well, I hope everyone's feeling refreshed after some holiday time off."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Did anyone do anything fun, anything crazy for New Year's Mark with the baby?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Went to Charlotte to see the grandparents and that was about it."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "We made it out to dinner one night, but it was good."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Do you want it?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Since you are spotlights on you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Do you want to tell everyone who you are and what you do?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Sure."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Like Ashley said, just joining today full time."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I've been with RVF for a couple months."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Prior to that, I've been pretty heavy in the software project management space."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Worked with MUSC here in Charleston, a local real estate company, doing software implementations, or not doing them, but doing the project management side of that."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "So excited to continue the work here, working with the clients that we're going to bring on and helping them build new software together."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "David, you want to go next?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah, I'm David."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I've worked with Kyle and Ryan."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I've been here for, what is it now, three months, Some Something about four."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I don't know has it since October."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Well an extended period of time, holidays included."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But you know on the software development side kind of more the front facing so like UI design CRMs and the like logistical components so connecting the systems together and automating."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So any complex automations David is working on and then Zaki, our AI guru if you want to hop in there and tell everyone who you are."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Hi, I'm Zacky."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "A little bit about myself."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I am from southern New Hampshire."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I am as actually said the software engineer."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I primarily do backend like I'm like unofficially our AI engineer probably is what is what I'd say."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "And my task consists of making a lot of the back end heavy AI logic which is like I spend time probably like 500,000 of lines of code for each thing."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "So it's a fairly time consuming job."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "But I'm excited to get into this year and make some more delivery to the client."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Ryan, do you want to move on to you?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah, now that my speakers aren't working but I'm using my phone."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Got to adapt."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Right."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But yeah, no."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So my name is Ryan Bottenberry, I'm from."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Well I was in Charleston for nine years but recently moved to Tennessee."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But I'm our COO really just handle a lot of the project ops."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So you know we'll go over a lot of those today what we have, you know, running right now."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But yeah, I've been here for four months which has been an awesome four months and excited for 2026."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "We got a lot going and obviously you can see our team is growing rapidly which is really exciting to have some new faces here."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Excited, absolutely."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Addie, you want to move on to you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Good morning, I am Addie."
+    },
+    {
+      "speaker": "Addie",
+      "text": "So I try to do it all."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Not really, but no, I try to help Ashley out and Ryan and Ashley mainly and whatever her needs may be from day to day."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I'm there for you guys as well as much as I can be."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I also have some experience with government as well and so I'm excited to be here and excited for the new year as well."
+    },
+    {
+      "speaker": "Addie",
+      "text": "So welcome to everyone."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then I'll go over like a flowchart of like what everyone's position is and who kind of reports on who and whatnot."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then Iyana Lua, last but not least."
+    },
+    {
+      "speaker": "assistance",
+      "text": "Hi everyone."
+    },
+    {
+      "speaker": "assistance",
+      "text": "I am Ian Lua, the virtual assistant as awareness."
+    },
+    {
+      "speaker": "assistance",
+      "text": "So I support this team by organizing files and books, tracking and entering belief hours in QuickBooks."
+    },
+    {
+      "speaker": "assistance",
+      "text": "And I'm also especially Excited to help streamline processes."
+    },
+    {
+      "speaker": "assistance",
+      "text": "I've been with Avaya now for three months and I'm looking forward to collaborating with you all."
+    },
+    {
+      "speaker": "assistance",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then obviously I'm Ashley, I'm CEO."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I help drive the vision of the company forward."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Finding the people that can best fit in the puzzle is what I like to say."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then just making sure that we continue to move forward as a company with the culture and then how we can continue to grow."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I worked with Iyana Lua at my last company."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "She is a VA from Africa and she's been awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So please utilize her for help as far as like organizing box or any other administrative tasks."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Addie, who we like to call Addy the baddie she likes or she helps me as far as a lot of like executive and personal help as far as like getting me organized and making sure that I stay on top of everything."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Zach, he's going to be your AI guru."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So he's building out some pretty awesome like agentic AI bots and so forth and making sure that we're set up structurally."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then Ryan, he's going to be over project ops so you know, really heavy on the delivery side of things."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "David, very much into like automations and integrations specifically with like really anything."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I feel like he's just kind of like my go to person for technology, him and Zachy, so."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But yeah, he's good on the complex automations."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Mark, Project manager, Senior Project manager."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And you were a developer in your past life, right Mark?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah, yeah, I've done it a little bit."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "But don't rely on me for any, any heavy development work."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then so bringing on like you know, Todd, he's going to be helping us move forward with some government contracting is going to be his focus."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then Rachel with marketing and getting our website and everything revamped up and our LinkedIn and then Kyle is going to be helping out on the client side and also on the RVA side as far as getting everyone trained, getting the training materials ready and allowing us and our clients to have scalability with our systems."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So just to kind of go over like who we are."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So Arvea is a consulting firm, so we help specifically within aec."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So that means architectural engineering and construction and so mostly government contractors."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And what we're trying to tap into as well is like helping government con or helping contractors in the AEC space to get into government contracting as well as another revenue source."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we are a consulting firm."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So that means that, you know, whatever the client wants, we kind of help them, assist them with whatever they need."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we don't just help with the selection of tools or software development itself."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "We want to be structured as long term partners of our clients."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so what that means is like we set it up so where we become really sticky as a partner of theirs."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So from the moment that you meet with the client and we evaluate what their pain is, we evaluate what tools they're currently using or their process and then what's the best, best process for them to take at that point."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we do our research and we do demos, etc."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So that's kind of what we have been doing for our clients."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then from there we do the, you know, the integration and implementation."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we start building out what those tools look like and then helping them get trained and onboarded."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So because tools, software is only good if you know how to use them."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we don't just stop at like building and just handoff."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "We continue to help train them."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Any new features that come about and then making sure that we create those training materials so we don't always have to be the one that's training them."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "They can, you know, go back, reflect, look at like, okay, this is, I forgot how, you know, Ryan or David taught me how to do X."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "You know, so having that training ability and adoption and then just making sure that we maintain those systems because as we know technology can break."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So any questions?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "As far as like that goes, that was mostly for like the new hires."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Perfect."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so as far as the calendar goes."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So the calendar is going to be, we'll have set meetings every week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So every Monday we have a 9am stand up meeting."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And this meeting is what we're on currently."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so just make sure you take a look at all the agendas."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Whenever you're in a meeting and moving forward, you should be always having an agenda."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "If you set one."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "It doesn't have to be super long."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "It just needs to be the priorities of like what is going to happen during that meeting, what's the goal of that meeting and moving forward."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So for the sake of this meeting, it should be every Monday at 9am Ryan and I will be leading that."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Ryan will be leading anything project and delivery and I will be leading anything general operations, resourcing and company priorities."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I do have another meeting set after this to kind of go over some more of the standards."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So just wanted to kind of get y' all familiar as far as like the 9am meeting and how that typically works."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then 10am is going to be the operating standards and KPIs kickoff."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then we'll lead into some more of the other meetings for this week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But as far as like 9am it's going to be for me and Ryan as leaders to help set everyone up with the priorities of that week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So I'll hand it over to Ryan to kind of go over the company priorities for the project delivery and so y' all can take a."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Understand, like how this works."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Cool."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So obviously we have a few projects in flight and real quick, Mark is in flight."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Or is that Logan?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Sorry, what do you mean?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "The status of inflight."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "That's."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "In place before."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I mean in flights."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I guess we all understand what that means, but in progress."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "While using inflight sounds good."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I just want to make sure."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But few, you know, some of the priorities."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Obviously, vantage point."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Right?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So for vantage point, Mark, you'll be running point on that."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "David, you'll be focusing on the tech side of that for vantage point."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "As of right now, we need to schedule the new reoccurring calls."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Obviously, you know, maybe you, me and David, let's stay on after this call just for five minutes to just talk about that because I know at the end of the year we wanted to figure out if we wanted to have like kind of a smaller group or have that larger group, me, every week."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So let's, let's make sure we lock that down."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And then, Mark, I'll have you reach out to Elham and set that up."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Then we have open asset."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So open asset."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Mark, you'll be running point on open asset."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'll be running support for open asset, the 15th."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So January 15th is our onboarding call."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So obviously between now and the 15th, I'll reach out to Linda and see if we can start getting a little bit of that data put in before the onboarding call starts."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But that will be a huge priority."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "We're very close to getting that ready, which is exciting."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Monday.com."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "so obviously, David, we got internal Monday, but then you have ice Monday, so priority needs to be ice is Monday."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So Monday.com we have enterprise set up."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "David, that's all good, right?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Enterprise."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah, I gave you a thumbs up."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Sorry, sorry."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "No, no problem."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So Monday.com is good for Enterprise."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "We'll give it less bright on making sure we get the single sign on started."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So why don't you reach out to him after this call, Just say, you know, on that same thread that we reached out to him at the end of the year, just say, hey, we're ready to get a Single sign on started."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So can we please set up a meeting and then have me included and then you know, the internal LLM or MPC server, MC server."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Sorry Zaki, you're obviously running point on that for right now."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You can use David as support if needed, but it seems like you have it all taken care of so that's great."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And then as far as Billy, make sure that's fully functional."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I know we did some of the testing at the end of the year."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "If there's any more testing that needs to be done, let us know."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But otherwise I feel like we're ready to be fully functional with Billy and then Kyle running the training."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So what I want to make sure we do is we create some sort of training environment or repository so that the ICE team can go in as well as our internal team go in and have a way to speak to, you know, the data and say, hey, I want a training on blank and you can search it and then be able to find the video that support whatever you're searching for."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So David, David and I will be running support on that with you Kyle, and getting that taken care of."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And then the ticketing system."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You know, I was talking to Mark about this."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It looks like it's on pause right now."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So I know Mark, he'll be working with Nancy on getting back on that but not a priority at this moment."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But I think that covers all the projects we have right now in flight."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So we'll keep working on those and keep delivering."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But Monday.comopen asset are both being delivered and then vantage point."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Let's make sure we have a priority on that."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "One thing that I wanted to ask about was as far as Zachi, when with the AI powered like LLM, I know that we have been billing but not really communicating with the client."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "What's going on with that."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So can you get with."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "You can discuss right now, but can you also get with Mark to make sure that that's put on as far as the update to Nancy, because she did ask me about it and so I just kind of, I didn't realize how much we were doing on that."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So if you can get that with him."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I did send her some communication on the 26th and the weekly update, so whatever was current from the 26th is what she got."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I don't know if you received communication from Nancy before or after that, but she should have some and she was out until today."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So the one on the 26th, do you mean that that was regarding the AI powered LLM?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Well, just the list of the projects, the kind of the high level overview of where we are on each one."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Was it included though?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "That was the one that."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah, AI powered LLM was on there."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "But I can go with Zachy to just make sure that what I sent to her was current and accurate."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Mark."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Mark sent me an email and I verified some stuff."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "But Mark, if I want to talk about what's more billable now, we should probably meet later because a lot of work's been done."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "The point where I think that I can start development on ISIS MCP server because I'm getting very comfortable in the, in like figuring out the tech stack for it."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "It's a very like unique tech stack with very unique challenges and I suspect more with ISIS scale and need for government compliance."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "So I need, I need more information from them as to how they handle their IT and their admin stuff."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "We can connect later on that and also as what Ryan said."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "So I put in some extra hours yesterday and Billy is all up for production for the new employees as well."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "What I did yesterday was I made a QuickBooks authentication management system so that whenever we have new employees, I just run a script on my computer and the database is now refreshed for every new employee."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "So I should never have to make that setup again."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Just put in some hours to make that happen yesterday."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Here is the documentation for new employees."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I just sent it in the chat right now."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Make sure you use that."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "It should work for all of you."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "You guys should see in your Monday logs for new employees."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I tested some logs through your name earlier and it came through."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "The issue with assistance Iana Lua is that she's, she's."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "And she's on her QuickBooks as an employee."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "So when she uses it also assistance isn't mapped to iana Lua and so there's like a weird thing where she's a contract employee I believe, according to QuickBooks and so QuickBooks can't match her so she cannot use at the moment unless until she gets."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Sorry."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Thank you for doing the documentation."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I love that you already took the initiative, but let's focus on Billy and another call whenever we can do a training on it because right now like no one, especially the three new employees, they don't know anything about Billy."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So let's, let's go."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I'm a schedule the same thing as like Monday, the training later today with David and Ryan and Kyle."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we'll do the same thing but later on this week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But before we do that, I want to see what the back end looks like, as far as, like, how it's recorded in Monday and then how it's also recorded in QuickBooks before we launch it to the team."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So let's get together either later today or tomorrow to go through that and then we'll set a time that you can go through it in detail."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "All right, sure."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "That sounds like a much better idea."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Anything else, Ryan?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "No, that's."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It covers all of them."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, cool."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then I know that there's been like, a lot going on as far as like the different project ops and stuff like that, but does anyone."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Rachel, Todd, Kyle, do you all have any questions about anything that was said?"
+    },
+    {
+      "speaker": "Todd Fernley",
+      "text": "The only question I was, is there a central repository for all documentation for just like, reading material?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So, yeah, so we have Box, which I'm going to get, make sure that we go through all of the onboarding checklist and make sure that you'll have access to everything."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But yeah, box will be our one source of repository."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then let's see."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Any other questions?"
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "Not listening."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then a couple housekeeping things."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Rachel, me and you will meet at 11 today to go over just some of the marketing needs."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Me, Todd and Ryan will go for some of the business development later today at 2."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Ryan, Kyle and David will meet on Monday just to go through, like, how ICE is utilizing it."
+    },
+    {
+      "speaker": "assistance",
+      "text": "What."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "How Kyle can start building out training materials for it, and then the training on how we can all start using it together as a team internally for our projects and for ISIS projects."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so that will be at 12:30 today."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then I'll have a check in with Kyle at 4 just to see how your day went."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then same thing, me and Addie will go over that to later today on some of the other housekeeping stuff with like, sam.gov and then I guess since we already have the time, what I can do is go through the KPIs now."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Sure."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then I can just always."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I can cancel that next meeting."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then we could probably meet with Todd so we can go over the business development needs at that time, if that works for everyone."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, let me share my screen."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so like I said, make sure that y' all take a glance at like, the agenda for every meeting beforehand."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Make sure that you understand, like, what you're supposed to bring to the table and so forth."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then we'll go over as far as like, the standard, the standards for creating a calendared event."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So if it's something that you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "We have a note taker."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And David built out an automation that takes all of the tasks and puts it into our Monday board, which are Monday they keep hearing about is where we track our projects."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "It's like our own CRM."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So the note taker that we currently have on our calls are going to summarize and then take all the task items and then move it over to our Monday board."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But it'll only do that if you type in here, right here at the top, RVA consulting with this pipe behind it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then you can put whatever the title of the meeting is for."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So you want to make sure that you do that and that way it's recorded."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then if it's something that you don't want added, you would put PC."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And I mean it's private conversation."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And just So I am 100% sure that is how it works."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Right, David?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Just the, the second part being."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "The first part being the client name."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yes."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "The second part being the project title."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And then if they want to put meeting details, that's the."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "If they, they need another pipe."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so should we put Arbea Consulting or should we also put ICE for."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Our client or what?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "It depends."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "It depends on what the project is for."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So like if we have a STEMO call, it would be ice."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so you would just put ICE here."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then the pipe."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yep, ICE pipes is Stemmo."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Because this, I can go over it briefly in the Monday.com one if you want to, because then I can use some examples."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah, that'd be great if you can go over that with Monday later."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah, no problem."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so yeah, so make sure that you go through it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so like I said, the 9am Monday meeting, that'll be more for leadership."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Just like again, directing everyone so where we have clear focus every single week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so you have an idea of what you're supposed to be doing and so you're not having to like kind of find something to do."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so we have those priorities set and then let's see."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then on Fridays, so we have the same thing Fridays."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we'll be."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And this is going to be more of like a team team meeting where we won't be necessarily direct, we'll be directing the call obviously."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But like we'll want everyone's to be prepared for this."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so this will be the close of the week, just kind of like going through like what happened that week because you know, we're all remote right now."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Even when we do have an office relatively soon, I still want to make sure that we are still recording these meetings and we're still going forward with these and this is a good way to just check in with everyone."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So what are the wins?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "You know what happened this week that was good?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Hopefully everyone has something to say."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But yeah, so one quick win of the week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "What moved forward, what went backwards?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "High level, no really big deep dives."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Should."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "This should be only a couple of minutes per person."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Any blockers, anything that you're waiting on to move forward."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So you'll make sure that you want to come prepared with that."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then what's your priority for next Monday?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So make sure that you're staying organized."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So this will be every Friday as a team call and then, and then Ryan, he has a call as well booked where it'll be the tech updates."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So this is should be honestly like a short, like 15, 30 minute call where we'll just go over is there any technologies that we are missing that we need to be looking into or we need to have set up?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Such as like, like scribe how for instance for Kyle, I'm sure you'll need that or loom or something like that and that way we can go ahead and get you onboarded and go ahead and pay for it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So whatever y' all need."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "That will be the almost like a call and then okay and then midweek team huddle."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So again, kind of similar to Friday, this is just going to be a short like 30 minute call where everyone's just kind of make sure that you go through this right here."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So this is going to be your agenda."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Right."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So the rest is kind of like what I'll be asking and I'm going to make this a lot shorter too."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So what did you commit to last week?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Where is it at?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Was it completed?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "What are you committing to again before next week?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So for example, last week I committed to finalizing the PM board structure."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "This week I'll be committing to building automations for data flow."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So whatever that looks like."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then I will go over just like hey, this is where you're at as far as your billable hours for anyone that is billable."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Again, just anything that's blocking you from doing what you need to get done and then anything that y' all have as far as like leadership on how we can do better as well."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So anything, you know, you have in mind and then the whole point of this is really like for storytelling or side conversations, it's going to be like really clear and organized."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I do always like to have like a little bit of time like before and after a Meeting to just kind of like set the tone of like, we are a team, we are friends."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But like during the actual call, let's try to stay a little focused."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And that is kind of all the meetings for the week as far as like the weekly meetings and then as far as the."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, one second."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Let me pull up these documents."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I would hope shower and breakfast are every day, not just Mondays, but."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Just kidding."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "That's my weekly shower."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Especially when we start coming to the office."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Right?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "You know, I will go up to two showers up."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I'll remind her."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "There you go."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Thanks, Daddy."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "That was actually a New Year's resolution, Ryan."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "To shower twice a week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So going over the performance operating system."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So just kind of going over some KPIs and this is going to take over for the next meeting and that way we can."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I can cancel that meeting and then I'll probably move you up, Todd, so we can start getting you in there."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I know you're here to get started, so."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right, so company level KPIs."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So KPI no one knows or anyone knows what it means is key performance indicators."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "It's what is going to allow you to understand how you're doing in your role."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And it's like loose metrics of like this is what you should be aiming towards."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And it's not so much like specific metrics in this specific industry or instance."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "We'll probably build out some more in depth KPIs as time goes on."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But right now this is what we have and these are what's really important specifically for the mission of rva."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "So."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "This is the company wide so on time delivery percent."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So if we say that we're going to commit to this date, let's try to make sure that we get it to them by that date."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I'd rather overestimate on time and then to be able to perform faster and to deliver faster than the other way around where we have to keep pushing deadlines or we're inconsistent."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So again, always give yourself a little bit more time to complete a project or a task."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Don't think that it has to get done right away."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Just make sure that you communicate whether or not you have any hiccups or anything like that that you need more support or more time with."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So again, just make sure you communicate on that."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So monthly recurring revenue, that's more on like, you know, the leadership side."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Make sure that we're billing the amount of time that we are setting those priorities and we're getting more work client Retention, expansion."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So how are we communicating with our clients is super important because I mean clients are everything, right?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we have to make money in order to keep doing business."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that we are bringing on new clients and that our clients are wanting to stay with us because they see the value."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And I will say that everyone here has done a remarkable job of keeping ice."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Our biggest client, like has multiple clients within it, super happy."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Everyone there has been like talking about how amazing our team has been as far as communication, as far as delivery, the understanding their needs and their wants."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "That's super important."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Just because we think that, hey, this is an easier way to do it may not be best for them."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So really understanding what they want in a system and then delivering that to them."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that we continue to do that moving forward."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And that's just by honestly communicating, taking the time to reach out to them and understanding them from a human level as well."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I know that we've had quite a bit of uphill battle with adoption from the ICE team, but they've really come a long way."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So great work everyone."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so internal rework, fire drill Ray, nothing crazy that we've had to go through, but over like the 10 like meeting and operations, like there's always going to be fires."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So the way that we handle those as a company I think is going to be really important."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So like making sure that we all work together as one team and then again not really like for you all, but gross margin per client."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that we utilize our time the best as possible in this way that will, the company will stay healthy and we'll continue to move forward."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, so before I move into the second one, any questions?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Party?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right, so behavioral KPIs so non negotiable."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So these are must be's."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So on time delivery of assigned work."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Again, ask for more time if you need it, just don't."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Just don't do it or don't communicate that to me will strike that you're inconsistent."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So just make sure that if you need more time, just ask for it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Work is documented before being marked as done."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So if you are complete with a project, but nothing has been documented, it's not done yet."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So make sure that you follow all the steps."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And since we're a startup, you're going to have to create those steps, but make sure that you document everything."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And this is why also Kyle has been brought to our team to help us to, you know, make sure that we're documenting everything."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So yeah, so for anyone that Wants to know, party whenever I say that just means like, let's go."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right, so weekly, I think written updates, submit on time."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So, okay, so like weekly syncs in Monday, which Dave will go over."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Just make sure that we're communicating, we're documenting everything that we're submitting, like our EODs and stuff like that as well."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then like we're responding to clients within a reasonable amount of time."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Like you don't have to respond to them right away, but like, make sure that, you know, it's not dragging on."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So proactive risk blogging."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that, you know, if there's an issue, please come to me or Ryan, please come to us."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "If there's something that's stopping you from, you know, doing your work or there's something that like, you know, personnel or whatever it may be, please come to us so we can fix it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I'll never be mad if you come to me, but if I find out later, I will be mad."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So that's just a little bit about me."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So please come to me."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "If you make a mess up, if you fuck up something, by all means, most things can be reversed, you know, so."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But just come to me."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I can't fix something I don't know about."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Accurate and up to date Monday.com tracking again, Dave will go over this in his training, but please make sure that we are utilizing Monday and we are tracking everything and communicating through it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Because."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Because it's going to be really important for us to stay up to date on everything but also stay organized as a team and you can always look back in and then no surprise escalations, going back to proactive risks flagging."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So any issues or anything like that, please, please, please let me know."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "If you feel like a client is in a meeting and I'm not in that meeting or Ryan's not in a meeting and you feel a client is like being a little aggravated or annoyed or some, you just can tell that the temperature is a little bit heated, please let us know sooner rather than later because I'd rather try to step in and figure it out even."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And I'm not going to be mad."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "It's just again, we have to figure out what is going on and so the best way is for y' all to tell us."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Any questions?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So going into like the role by role KPIs."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So for me, my goal is to continue to build and retain strong leaderships and also partnerships and positioning and then for long term company value creation, the vision to Give you all the support and the resources that you need to be there as that sounding board to make sure that we're moving forward together as a company."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Ryan his is going to be team clarity alignment that operational efficiencies approve improvement sorry Execution, visibility and meeting cadence."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that you know things are getting done and that we're staying true to what those meetings agendas are."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Mark Our senior pm so client satisfaction and confidence making sure that you know they really understand what we're doing, how we are adding value to their company is going to be super important."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then internal team coordination and clarity."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that you know the like Zachy and David and Kyle that you all have like what you need in order to move forward making sure that you all understand the task at hand and then just making sure that Monday board is up to date so the project health visibility and risk management is able to be seen by leadership."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So okay, any questions on those three before I move in?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Automation and ERP."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "David so visibility into work in progress Monday.com reliability and stability of automation."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that you're building these out to be stable which I think you're really great at."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So knowledge transfer to teams."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So understanding how they work and then making sure that you get with Kyle to provide all of that documentation and training."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "AI integrations."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "AI and integrations Zacky so you know really adding business value to AI and then making sure sure that it's staying in guidelines and guardrails which we'll have someone responsible for but making sure that the accuracy of the AI and the usefulness is there and that there's clear handoff to PMs and clients and Kyle's the training and enables enablement specialists so which rolls into Kyle."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So tool adoption rates so all of the different platforms like making sure that everyone understands how to use those tools."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Kyle is going to be super important and then making sure that we are tracking like that and if there is some additional training needed making sure that we get that done."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Measurable workflow improvements, speed and quality of new hire ramp ups etc."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I know today is going to be a little bit long with like just like training stuff but eventually we'll get into some more fun work."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So okay marketing for Rachel so you're going to be support effectiveness for Todd as business development me and Todd and Ryan."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So proposal win rate, contribution, messaging, clarity and consistency is going to be super important."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that everyone online and in person understands who we are, what we do, what's the vision, what's our values etc."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then business development and government Todd so building out that government contracting pipeline and progressing it, you know, revenue close deal quality and deliver delivery readiness."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So making sure that we have everyone available for that, making sure that we're going after projects that are within our abilities, et cetera."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then operations and executive support."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Addy so leadership leverage through task offloading, accuracy and time of operational support, systemized internal processes and follow through."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So just making sure that you follow up on all the the tasks that have been assigned to you and making sure that you are keeping a log of like what needs to still get done."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then same thing with Operations Assistant Yanalua."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So reliability and consistency of task execution, accuracy of internal tracking updates, speed, speed of turnaround on assigned request and then so that'll be through clear communication and confirmation of completion and that is it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So any questions on any KPI's party?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right, so I think that is good for right now as far as like what we need to discuss on those and we'll continue to move forward with like more operating standards and in the future."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So like how to use certain tools as I mean realistically we're a brand new company that's only been around for like four months, five months and so we're growing rapidly."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I'm really excited about how fast we're growing and I feel like we have like the best talent, especially in the Southeast for sure."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And so we have so much to go."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "We have some so far to go and we have so much to do."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But I really do feel like this is the team that is going to get us there."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So I'm really excited that everyone is going to be here working hard and working towards that one mission."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah, anything Ryan you want to end on?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "No, I'm just excited for the new faces, excited to get to know you guys more and really get an idea of how I can help you and be a support to you guys."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And then for the other folks, been awesome working with you guys so far."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Excited to continue that."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And like David said earlier, David and I and Kyle have worked together in the past."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It's cool to see it come full circle and have him a part of the team."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But great team, so much talent here, very excited."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "If you need me, please, please, please use me."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I will be able to help."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'll try to help you in any way I can."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But no, just excited."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "2026 baby."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Here we go."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "2026."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Any other words for anyone?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Wow, y' all are silent."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Come on, David."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Anything from You Anything from me?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah, I was going to ask Ryan who he wanted to stay on the call."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I couldn't remember if it was me or not, but I hope everyone had a happy holidays."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Happier than, you know, me sitting down by myself."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Oh, oh, oh, oh."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "For everyone."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Because Mark."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Mark came to my home where I live and didn't text me."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Oh, bro."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Baby."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Though he gets a pass called out."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "This is being dramatic."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "For everyone who needs to know, David is our company, Eeyore."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So if you ever need."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Any Orion's problems anymore."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "None."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "That's it."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Zero."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But no."
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "Anyway."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Nope."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Exciting, guys."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Hope you're all excited."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "All right, who's staying on you and Mark?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, one question."
+    },
+    {
+      "speaker": "Addie",
+      "text": "One question."
+    },
+    {
+      "speaker": "Addie",
+      "text": "When I do set up this demo, hopefully people are back to work like we are today."
+    },
+    {
+      "speaker": "Addie",
+      "text": "But when I do set up this, the workdays ERP demo that I'm setting up for later in this week, hopefully for Thursday or Friday, and it's going to include Mark, David, Ryan, and Ashley."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Are y' all going to report back to Elham or did you want him included on that demo?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'd say add just Adam, Right?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Why not?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I'm just."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I'm just."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I can just invite him and just heal."
+    },
+    {
+      "speaker": "Addie",
+      "text": "He can decline or accept, right?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah, I think that's a good idea."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay, that'll be fine."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Great question."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Any other questions before we hop?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Zach, you looking fresh with their hair, man."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Didn't change nothing."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I just."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "My hair is better some days than there's others."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Let us see your calendar."
+    },
+    {
+      "speaker": "Addie",
+      "text": "You got a weekly shower?"
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Oh, shower."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Actually, twice a day."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Twice a day."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Get it?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Twice a day."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Dude, the one thing about Pakistani culture is that you shower a lot, which seems counterintuitive to the street food videos, but it's true."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It's true your neighbors don't feel the same, but."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Well, I mean, the Indian fellas of the Southeast."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So we're saying."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So what we're hearing is that they're cleaner in Pakistan than they are in India."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "You're probably hearing generational propaganda from my."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "My grandparents that went to war against India."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Oh, yeah, by the way, Zach is in Charleston, by the way."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So I think the only one."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Only two that are."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Or three, I guess, that don't live in Charleston is going to be Kyle, Ryan, and Yan Lua."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But, David, you're moving to Charleston, right?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then I'll be in between."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'll be in between."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Addie",
+      "text": "And then, David, you can be alone with me."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I mean, not like."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Like that."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I mean, that was, like, inappropriate, but I mean, you know what I'm saying?"
+    },
+    {
+      "speaker": "Addie",
+      "text": "Hang out."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Yeah, I'll have."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I'll have Ryan crashing on my couch for one week a month."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Hey, I thought I'd get my own room."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "No, you do."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "You do."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "At least I get a room, not just a couch."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "So David's in Charlotte."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "You get a room, but you're still sleeping on a couch."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "A couch in the room that works."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Bed not provided."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Futon, please."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I really want a futon."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Where are you, Kyle?"
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "I'm in Georgia."
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "Brunswick area."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Not too bad, not too bad."
+    },
+    {
+      "speaker": "Kyle Dalton",
+      "text": "A three hour drive from Charleston."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "You."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Get a couch at David's house."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "That one's actually more accurate."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You get a couch."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "If the town hall goes through, I'm gonna have two guest rooms."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "There you go."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Satellite office."
+    },
+    {
+      "speaker": "Addie",
+      "text": "We got you, Lou."
+    },
+    {
+      "speaker": "Addie",
+      "text": "We got you, Lou."
+    },
+    {
+      "speaker": "Addie",
+      "text": "You can come, too, Luana."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I call her Lou."
+    },
+    {
+      "speaker": "Addie",
+      "text": "I can't say all that."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then Rachel and Zach, y' all both live downtown?"
+    },
+    {
+      "speaker": "Rachael Lindblom",
+      "text": "Yeah, I'm downtown."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Sweet."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then Mark and Todd, y' all will live in Mount Pleasant."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Well, I'm checking on a cool spot today, so send good vibes for the irs, the office space."
+    },
+    {
+      "speaker": "Addie",
+      "text": "And so I'll report back."
+    },
+    {
+      "speaker": "Addie",
+      "text": "But yeah, I'm requesting a."
+    },
+    {
+      "speaker": "Addie",
+      "text": "You know, I'm asking for a spot for nine people, so."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Let'S see what happens."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Good luck, and we'll continue to grow."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "All right, guys, I will see y'."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "All."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And I'm like, I said, I'm gonna cancel the next meeting."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "I'll just move it."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Because I know that there's more, like, company standards I want to go through, but I don't want to, like, just bombard y' all all with it one day just because it kind of gets a little, like, overkill."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "So I will reschedule that to another day this week."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then I will sync with you, Todd, to kind of go over what we'll do."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "And then Rachel, 11, and then you all have your barking orders."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Cool."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Sounds, Ryan."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I'm meeting with Mark at 10:30 to go over some of the AI powered LM and MCP billing stuff."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "You want to hop in on that meeting so we can talk about what we need and stuff?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah, if I can."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Absolutely."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Just to make sure."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Yeah, I'll jump to it."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right, cool."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right, see you guys."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "I can take it easy."
+    },
+    {
+      "speaker": "Addie",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Happy New Year."
+    },
+    {
+      "speaker": "Zaki Quereshy",
+      "text": "Bye."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Bye."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Ryan."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Are we staying on this one or just."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Are we doing."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Going to a new one?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah, we'll just be really quick."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So with the vantage point, it Looks like Elham's gonna be kind of the."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I mean."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I mean, temp."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "He may have Temple be that person, or maybe even Nancy, for that matter."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Means he was on the last call, right?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah, Nancy's on all of them."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Right."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So maybe."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Maybe get with Nancy and just say, hey, I know we met at the end of the year, you know, to discuss Vantage Point."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You know, Wants everybody on there."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I know we want to have breakout sessions."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "How do we do you want me to talk to Elham and just say, hey, there?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You know, our team thinks it's best to do a breakout session."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I mean, Nancy is fine to have on all of them because she's like the facilitator."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So she organizes the calendars and all that."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She doesn't."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She doesn't get us."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She's not."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She's not one of the ones steering us off track or like, she's."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She just kind of does her thing in the background."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "But from the last call, you know, it was too much chatter, too much misdirection."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "So I think, you know, we."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She sent it."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She sent an email this morning with survey responses and questions."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I know we talked about maybe using those as guides for the next call and hopefully can stay on track in that way."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "But yeah, if you want to chat with Ilham and just say we'd like a more focused, maybe smaller focus group."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I think that would."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "That would benefit."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "We can still do the big one, like once a month or once every two weeks or something, but just some focus groups to really."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And maybe we don't do all the focus groups at one time."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Maybe we pinpoint some issues first, see if we can fix some advantage point and then move on to the next group, get their issues."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Maybe."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Maybe we do them all in, like, one week to start, and then none."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And then we pick which ones we're working on, and then we meet with them, you know, the week after, the week after, the week after until we finish or something."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "But."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Okay, why don't we do this then, Mark?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Why don't you create that agenda?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "What that could look like where it's like, hey, once a month we meet with the entire group, and then once, you know, once a week we meet with a focus group and."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And think of a couple maybe, you know."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right, let me think."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So there's 10."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "There's temple, and then there's P. They're all PMs, right."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "On the last call, it was Temple, Ilham, and then mostly PMS."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So Nancy."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Nancy, Temple, Elham, PMs."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So maybe what we do is we based on where they are."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So if they're Geotech PM or if it's DB pm, so each of the different segments of their business, they have a PM for that segment."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Maybe we focus on one per segment each time so we can focus on."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right, what does design build need?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Design build needs."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Blah, blah, blah, blah, blah, blah, blah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Great."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "What is geotechne?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Is it similar?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "This is what we've done for dv."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Do we want to do the same thing for you?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Just kind of get an idea from each of the groups."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Is that probably the best way to break out?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "What if we break it out how?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "We have their Monday boards broken out to where we have a small group of like."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So they got three, right?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But then we also."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So we got accounting and then we got DB Design and cei, which mark, that may or may not make sense to you at the moment, but they have like, in their original CRM, they have 20 sheets of information."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And each sheet is for a specific region slash industry type."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So cei North Carolina, cei, Charleston."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Cei, South Carolina Monday."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Real quick, Pull up their Monday real quick."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "And what is that?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Ceif?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "We don't need it for construction engineering."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah, no, it's some build."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "It's."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "No, it's inspections."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I don't know CE."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But yeah."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So, okay, so they have three distinct."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "We were able to break it up into three distinct groups of regions."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So you have CEIs, all one board in Monday design build, which is DB, is all one space in Monday."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "An actual design, which is separate from Design build, is its own space."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And each of them has, you know, 10 tabs inside of Monday."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So then each of those meetings, we may not need all 10, but that will be our space to like."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Okay, well, let's get."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "You know, this is our target."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "You know, we want all."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "We want the DB members you think should be here, Nancy, who should be here from the DB side of things to discuss that."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Because it might not be all 10 people."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Maybe it is, but we'd leave it up to them at that point."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Here's how we want to break it out."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Who needs to be here specifically from this team to fill that request."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So, and I can give you."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I can provide you with some more details as to, like, what falls under what."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Because some of those might not make sense to Nancy, but they would to, like Mitchell, who's been working with me on the CRM design."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So I can send you a sheet of that information."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But yeah, I'm down with that because it."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Because."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But then also ran plus accounting because it is also an accounting system."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So they're their own focus group."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And that's where Temple could be there."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Temple is welcome to be there for the accounting side."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I just don't want her there for every single meeting, you know?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I mean, from the last call, she needs to have her own internal trainings on reports and stuff."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Since she knows how to do it, she should be helping them with that."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "So are we thinking then more business function versus."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Like."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Ryan, you were talking about possibly breaking out the PMs into segments, but."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Do."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "We want to do that or go with, like, accounting?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "PMs, arcade."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I don't know what their other."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Well, so the accounting is one section of the business."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "The design build is one section."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "CEI is one section, I believe."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I would think that the project management day to day is different depending on which one of those that you're in."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Right."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So I feel like that would be the best way to break it out is by those sections."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And then, you know, again, we propose this."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "That's why I think if you can type up something Mark or like, look, this is what our proposition is."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'll get with Elham and I'll be like, hey, man, this is why we're doing it."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "This is what I'm thinking."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "We'll have like a sidebar conversation about it, and then he's either gonna say, yeah, I like that, or I don't, but at least have it in writing that you can copy Nancy and Elham on."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And then I'll talk with Elham and figure it out."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So yeah, I would just come up with something like, you know, some simple."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Again, once a month we meet as a full group, and then once a week we meet with, you know, each of them."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So what are there."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "There's."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "There's four accounting deep or five."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "What's the fifth?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Marketing."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Accounting."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Well, accounting."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Marketing."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "We'll just say no to that for right now."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Maybe Accounting, db, CEI and design."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So just four."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay, so DB is different from design."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yep, it's design, build and then design."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "One I think is more schematics and one is the actual, like, labor."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "And again, he may say, hey, you know, you can do design and design build in the same one."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "They have similar."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah, I don't."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I don't think so."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Just based on the last meeting we had."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah, I got you."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But yeah, so we'll figure it out."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So, yeah, just come up with something quick, nothing crazy."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Here's our Proposition."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "This is."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You know, I'll tell them the why."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You don't have to really include it if you don't want to."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You can if you want to and then we'll go from there."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Also my speaker."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'm on my phone, so I kind of dance."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Doesn't sound bad, but that's good."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "At least it works."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Dumb."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Ryan's technologically challenged."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "That kick ass setup, that picture you sent."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I don't know, man."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I thought I had."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I had high faith in you."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I know, dude."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You think you would think."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You know what though?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "It's for the aesthetics."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Cheap down speakers."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Look, I'm just pretty okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "No, barely that."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But I'll."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'll figure it out."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "If your computer can't space heat an apartment, it's not strong enough."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "You got to get bitcoin miners."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "No, I did, I."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "When I was poor and worked at ERC and was broke and couldn't pay my heating bill, I just ran bitcoin miners on my two PCs and kept my apartment heated to 75 degrees all winter."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It's pretty wild how much it really does."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Dual graphics, running sli."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "No, I had just two computers."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I'm surprised they haven't done this yet."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But what they were going to do is try to make."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Well, I guess they have, but just not to amass version."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But you could heat your home with obviously like you said, a bitcoin miner where you can make the cost almost net neutral."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Like as it mines, it's paying."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It would be paying your electric bill."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "The issue is the durability of that as opposed to a regular H vac system."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Right, right."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Because yeah, any moment you could have a big problem and you can't fix it, so good luck."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Not that you can fix an H vac system either, but."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "But yeah, no, anyway, we won't go into the long tangents on that one, but."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right, cool."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Just type, type that up."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Send that to me maybe before you send out and then let's just get it out."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Try to get that done today if you can."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "If you don't."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "For sure."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Cool."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "And I'm still gonna read."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I haven't reviewed Nancy's email."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "She sent like right before our call, but it's quite."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Last week, so I'll."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Catch up on that first before I."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Send out follow female Mark, glad to."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Have you on the team finally, officially."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I can."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I can message you at 11 and get a response at 1101."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "It's gonna be great."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Is that AM or PM?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "No guarantees on that one, but If I'm around and awake, for sure."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "No, happy."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Happy to be on full time and kick some ass."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Let's go."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I'm just happy you made it back from Miami alive."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So, Rose, touching go."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "If he goes anywhere with John, I text him status reports."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Because John's a dangerous human being."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Oh, dangerous."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Is he from your previous company too?"
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah, it was funny too."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "He was."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "He was at the thing."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "He's like."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "He's like."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It's weird, man."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Ryan, you know, I."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "He used to be my employee and now I'm gonna be his."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "What the fuck?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Because we're trying to get him to be a part of it and some way shape or form, I thought."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "That's funny."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Sweet."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Cool."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Ryan, I'm gonna meet with Kyle here, get him set up in Monday, get him started on some training stuff in the in between."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I know we got that at 11, I think as well."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But just to get a jump start on that since we don't have the Santa Claus now."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah, no, that's good."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Just make sure."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So everything's good on Enterprise."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "We're good on ISIS Monday."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "We just got to wait for last for a single sign on."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Nothing else to do, everybody."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I'm gonna go over it again today, but."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah, and we gotta get it."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah, we gotta get everybody."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right, cool."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "When you're talking with Kyle between now and then, like the priority needs to be when we have this Monday.com training@ what is it, 12:30."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Please, please, please, please make sure this goes really smoothly for the rest of the team."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Right."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So that we can go over this."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "So that no bad habits are created."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Everyone understands what they need to do."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Make that easy."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Okay, I'm have Kyle make me some visuals."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Perfect."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I think people get tired of my voice after a while."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Mark, stop deleting your items."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Elham, this weekend, the actualizing your items."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah, don't delete."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Where do you want them to go?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Like if they're."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Markham is trash and then they go to the bottom."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Market is trash, does it not delete it?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Well, if you mark it as trash, it won't delete it."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Delete it."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But it allows me to potentially train the AI model in the future to disclude certain things based on the history."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Trash is just the status we created."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It's not really trash."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "When you put it in trash, you're not actually deleting it."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "It's just a word we use for a group that makes sense."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Right?"
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Just means junk."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Whatever you want to call it."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I Did a lot of that yesterday as far as cleaning up the actual."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Items, but I know I was getting pinged."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I was getting pain that you were deleting things constantly."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And I was like, yeah, but he's locking in on a Sunday."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I'll just talk to him about it tomorrow."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But no, just don't."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I mean, we'll go over it today, but we don't want anyone to delete anything unless it's truly."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Like, you created a line item on accident."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Now you're deleting the line item on accident."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "We just don't want people to even know where that button is."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Really."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Like, I'm looking at it right now."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "All the statuses right there's done."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Canceled Trash."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Did I do something besides marking it as trash?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "How did that."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "You're saying you, like, you, like, clicked on it and deleted it?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Deleted it."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I'm not sure how I did that."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Okay, well, I can undo them."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "You did delete, like, 26 things."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "But where would I have done that?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Because the only thing I ever did was go to the status section."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "And is there."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "So some."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I mean, we may need to look into it if it's because I feel like I just."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Did you do this?"
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Oh, oh, oh, oh, oh, oh, oh."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Yeah, Right."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "So I did some."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Some."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "So if I go into them individually and go to the status, that's not an option."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I guess I assumed that was the same thing as Trash, because I was doing some, like, batch, you know, Like, I would look at the title, I could tell it was, like, a duplicate or it wasn't relevant, so I would just hit trash, I guess."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Or delete."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So in the future, you can batch them."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Obviously."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Don't do what I'm doing."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "This is just an example."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And then you can click this."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And hit trash there."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "This bottom bar is for, like, line item actions."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "So, like, this would be, like, if I wanted to move it to another group or to another board, I can duplicate all these."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "In the future when we're on Enterprise, you won't even be allowed to do that because I like to restrict it so that people just can't."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "You know, it's just easier to prevent the mistakes than trying to fix them later."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Obviously, this is fine."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "You know, we're still starting out and there was a bunch of junk in there anyway, so I'm not."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I'm not beating you up about it."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Just."
+    },
+    {
+      "speaker": "Ashlee Jack",
+      "text": "Right."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "I was pinged."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "I was like, so you don't get pinged if I'm."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "If I'm changing the status I get pinged about everything."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Okay, I will turn it off eventually."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But it is nice to know for now, so."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Sure."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Good to know."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "And beating you up, I promise."
+    },
+    {
+      "speaker": "Mark Lohr",
+      "text": "Keep it going until morale improves."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "Well, all right, fellas, I'm gonna put some lidocaine on my arm and, yeah, then I'll call Kyle."
+    },
+    {
+      "speaker": "David Hogg",
+      "text": "But y' all need anything else for me?"
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "Good brother."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "I will see you in a few."
+    },
+    {
+      "speaker": "Ryan Botindari",
+      "text": "All right, boys."
+    }
+  ],
+  "max_items": 12
+}

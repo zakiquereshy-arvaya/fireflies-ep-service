@@ -1,0 +1,1032 @@
+Title: Arvaya Consulting | Weekly Priorities Sync
+Date: 2026-01-05 14:00:00
+ID: 01KDQZ9ZNT1BA96A6BYDP6NDS3
+Participants: Mark Lohr, Ashlee Jack, Ryan Botindari, Zaki Quereshy, Todd Fernley, Rachael Lindblom, Kyle Dalton, David Hogg, Addie, assistance
+
+Mark Lohr: Good morning.
+Mark Lohr: Good morning.
+Mark Lohr: Good morning, everyone.
+Ashlee Jack: Hello.
+Ashlee Jack: Good morning.
+Ashlee Jack: Good morning.
+Ashlee Jack: Wow, this is a pretty big team now.
+Ashlee Jack: Yeah.
+Ashlee Jack: How is everyone.
+Mark Lohr: Doing?
+Mark Lohr: Great.
+Mark Lohr: Happy New Year.
+Ashlee Jack: Well, happy New Year's.
+Ashlee Jack: Okay, so I wanted to just go ahead and start by welcoming our three new employees and then also Zachy and Mark for joining us full time.
+Ashlee Jack: So pretty excited for everyone to join the team.
+Ashlee Jack: And then if everyone, Todd and Rachel and Kyle, if y' all want to start off with talking about who you are, we can start with Todd.
+Ryan Botindari: Yeah.
+Zaki Quereshy: Okay.
+Ryan Botindari: Hey, everyone.
+Todd Fernley: Nice to meet you.
+Todd Fernley: Looking forward to working with you.
+Todd Fernley: As a quick background on me, I've been with the government doing contract with them about 11 years.
+Todd Fernley: Did White House, GSA, NIH in the last five years in the split between treasury and Homeland Security, but looking forward to getting started.
+Ashlee Jack: Awesome.
+Ashlee Jack: Rachel, do you want to go next?
+Ashlee Jack: Sure.
+Rachael Lindblom: I'm Rachel.
+Rachael Lindblom: I've owned a digital marketing company for the past five years and was looking for something a little more in house.
+Rachael Lindblom: And so I connected with Ashley.
+Rachael Lindblom: I have background in business and law, but yeah, I'm excited to work with you all.
+Ashlee Jack: And then Kyle.
+Kyle Dalton: Yeah, so come from a very management, heavy background of work management for my last eight, nine years and really big emphasis on training.
+Kyle Dalton: So here to help kind of create and drive some efficiency through some training modules through Monday.com and AI and yeah, that's a little bit about myself.
+Ashlee Jack: Awesome.
+Ashlee Jack: And so, Kyle, you've already worked with both Ryan and David, so you're pretty familiar with each other, right?
+Kyle Dalton: Yes, I have, unfortunately, but fortunately.
+Ashlee Jack: Awesome.
+Ashlee Jack: Well, I hope everyone's feeling refreshed after some holiday time off.
+Ashlee Jack: Did anyone do anything fun, anything crazy for New Year's Mark with the baby?
+Ashlee Jack: Yeah.
+Mark Lohr: Went to Charlotte to see the grandparents and that was about it.
+Mark Lohr: We made it out to dinner one night, but it was good.
+Ashlee Jack: Do you want it?
+Ashlee Jack: Since you are spotlights on you.
+Ashlee Jack: Do you want to tell everyone who you are and what you do?
+Mark Lohr: Sure.
+Mark Lohr: Like Ashley said, just joining today full time.
+Mark Lohr: I've been with RVF for a couple months.
+Mark Lohr: Prior to that, I've been pretty heavy in the software project management space.
+Mark Lohr: Worked with MUSC here in Charleston, a local real estate company, doing software implementations, or not doing them, but doing the project management side of that.
+Mark Lohr: So excited to continue the work here, working with the clients that we're going to bring on and helping them build new software together.
+Ashlee Jack: Awesome.
+Ashlee Jack: David, you want to go next?
+David Hogg: Yeah, I'm David.
+David Hogg: I've worked with Kyle and Ryan.
+David Hogg: I've been here for, what is it now, three months, Some Something about four.
+Ashlee Jack: I don't know has it since October.
+David Hogg: Well an extended period of time, holidays included.
+David Hogg: But you know on the software development side kind of more the front facing so like UI design CRMs and the like logistical components so connecting the systems together and automating.
+Ashlee Jack: Yeah.
+Ashlee Jack: So any complex automations David is working on and then Zaki, our AI guru if you want to hop in there and tell everyone who you are.
+Zaki Quereshy: Yeah.
+Zaki Quereshy: Hi, I'm Zacky.
+Zaki Quereshy: A little bit about myself.
+Zaki Quereshy: I am from southern New Hampshire.
+Zaki Quereshy: I am as actually said the software engineer.
+Zaki Quereshy: I primarily do backend like I'm like unofficially our AI engineer probably is what is what I'd say.
+Zaki Quereshy: And my task consists of making a lot of the back end heavy AI logic which is like I spend time probably like 500,000 of lines of code for each thing.
+Zaki Quereshy: So it's a fairly time consuming job.
+Zaki Quereshy: But I'm excited to get into this year and make some more delivery to the client.
+Ryan Botindari: Awesome.
+Ashlee Jack: Ryan, do you want to move on to you?
+Ryan Botindari: Yeah, now that my speakers aren't working but I'm using my phone.
+Ryan Botindari: Got to adapt.
+Ryan Botindari: Right.
+Ryan Botindari: But yeah, no.
+Ryan Botindari: So my name is Ryan Bottenberry, I'm from.
+Ryan Botindari: Well I was in Charleston for nine years but recently moved to Tennessee.
+Ryan Botindari: But I'm our COO really just handle a lot of the project ops.
+Ryan Botindari: So you know we'll go over a lot of those today what we have, you know, running right now.
+Ryan Botindari: But yeah, I've been here for four months which has been an awesome four months and excited for 2026.
+Ryan Botindari: We got a lot going and obviously you can see our team is growing rapidly which is really exciting to have some new faces here.
+Ryan Botindari: So yeah.
+Ashlee Jack: Excited, absolutely.
+Ashlee Jack: Addie, you want to move on to you.
+Ashlee Jack: Okay.
+Addie: Good morning, I am Addie.
+Addie: So I try to do it all.
+Addie: Not really, but no, I try to help Ashley out and Ryan and Ashley mainly and whatever her needs may be from day to day.
+Addie: I'm there for you guys as well as much as I can be.
+Addie: I also have some experience with government as well and so I'm excited to be here and excited for the new year as well.
+Addie: So welcome to everyone.
+Ashlee Jack: Awesome.
+Ashlee Jack: And then I'll go over like a flowchart of like what everyone's position is and who kind of reports on who and whatnot.
+Ashlee Jack: And then Iyana Lua, last but not least.
+assistance: Hi everyone.
+assistance: I am Ian Lua, the virtual assistant as awareness.
+assistance: So I support this team by organizing files and books, tracking and entering belief hours in QuickBooks.
+assistance: And I'm also especially Excited to help streamline processes.
+assistance: I've been with Avaya now for three months and I'm looking forward to collaborating with you all.
+assistance: Thank you.
+Ashlee Jack: Thank you.
+Ashlee Jack: And then obviously I'm Ashley, I'm CEO.
+Ashlee Jack: I help drive the vision of the company forward.
+Ashlee Jack: Finding the people that can best fit in the puzzle is what I like to say.
+Ashlee Jack: And then just making sure that we continue to move forward as a company with the culture and then how we can continue to grow.
+Ashlee Jack: I worked with Iyana Lua at my last company.
+Ashlee Jack: She is a VA from Africa and she's been awesome.
+Ashlee Jack: So please utilize her for help as far as like organizing box or any other administrative tasks.
+Ashlee Jack: Addie, who we like to call Addy the baddie she likes or she helps me as far as a lot of like executive and personal help as far as like getting me organized and making sure that I stay on top of everything.
+Ashlee Jack: Zach, he's going to be your AI guru.
+Ashlee Jack: So he's building out some pretty awesome like agentic AI bots and so forth and making sure that we're set up structurally.
+Ashlee Jack: And then Ryan, he's going to be over project ops so you know, really heavy on the delivery side of things.
+Ashlee Jack: David, very much into like automations and integrations specifically with like really anything.
+Ashlee Jack: I feel like he's just kind of like my go to person for technology, him and Zachy, so.
+Ashlee Jack: But yeah, he's good on the complex automations.
+Ashlee Jack: Mark, Project manager, Senior Project manager.
+Ashlee Jack: And you were a developer in your past life, right Mark?
+Mark Lohr: Yeah, yeah, I've done it a little bit.
+Mark Lohr: But don't rely on me for any, any heavy development work.
+Ashlee Jack: And then so bringing on like you know, Todd, he's going to be helping us move forward with some government contracting is going to be his focus.
+Ashlee Jack: And then Rachel with marketing and getting our website and everything revamped up and our LinkedIn and then Kyle is going to be helping out on the client side and also on the RVA side as far as getting everyone trained, getting the training materials ready and allowing us and our clients to have scalability with our systems.
+Ashlee Jack: So just to kind of go over like who we are.
+Ashlee Jack: So Arvea is a consulting firm, so we help specifically within aec.
+Ashlee Jack: So that means architectural engineering and construction and so mostly government contractors.
+Ashlee Jack: And what we're trying to tap into as well is like helping government con or helping contractors in the AEC space to get into government contracting as well as another revenue source.
+Ashlee Jack: So we are a consulting firm.
+Ashlee Jack: So that means that, you know, whatever the client wants, we kind of help them, assist them with whatever they need.
+Ashlee Jack: So we don't just help with the selection of tools or software development itself.
+Ashlee Jack: We want to be structured as long term partners of our clients.
+Ashlee Jack: And so what that means is like we set it up so where we become really sticky as a partner of theirs.
+Ashlee Jack: So from the moment that you meet with the client and we evaluate what their pain is, we evaluate what tools they're currently using or their process and then what's the best, best process for them to take at that point.
+Ashlee Jack: So we do our research and we do demos, etc.
+Ashlee Jack: So that's kind of what we have been doing for our clients.
+Ashlee Jack: And then from there we do the, you know, the integration and implementation.
+Ashlee Jack: So we start building out what those tools look like and then helping them get trained and onboarded.
+Ashlee Jack: So because tools, software is only good if you know how to use them.
+Ashlee Jack: So we don't just stop at like building and just handoff.
+Ashlee Jack: We continue to help train them.
+Ashlee Jack: Any new features that come about and then making sure that we create those training materials so we don't always have to be the one that's training them.
+Ashlee Jack: They can, you know, go back, reflect, look at like, okay, this is, I forgot how, you know, Ryan or David taught me how to do X.
+Ashlee Jack: You know, so having that training ability and adoption and then just making sure that we maintain those systems because as we know technology can break.
+Ashlee Jack: So any questions?
+Ashlee Jack: As far as like that goes, that was mostly for like the new hires.
+Ashlee Jack: Perfect.
+Ashlee Jack: Okay, so as far as the calendar goes.
+Ashlee Jack: So the calendar is going to be, we'll have set meetings every week.
+Ashlee Jack: So every Monday we have a 9am stand up meeting.
+Ashlee Jack: And this meeting is what we're on currently.
+Ashlee Jack: And so just make sure you take a look at all the agendas.
+Ashlee Jack: Whenever you're in a meeting and moving forward, you should be always having an agenda.
+Ashlee Jack: If you set one.
+Ashlee Jack: It doesn't have to be super long.
+Ashlee Jack: It just needs to be the priorities of like what is going to happen during that meeting, what's the goal of that meeting and moving forward.
+Ashlee Jack: So for the sake of this meeting, it should be every Monday at 9am Ryan and I will be leading that.
+Ashlee Jack: Ryan will be leading anything project and delivery and I will be leading anything general operations, resourcing and company priorities.
+Ashlee Jack: I do have another meeting set after this to kind of go over some more of the standards.
+Ashlee Jack: So just wanted to kind of get y' all familiar as far as like the 9am meeting and how that typically works.
+Ashlee Jack: And then 10am is going to be the operating standards and KPIs kickoff.
+Ashlee Jack: And then we'll lead into some more of the other meetings for this week.
+Ashlee Jack: But as far as like 9am it's going to be for me and Ryan as leaders to help set everyone up with the priorities of that week.
+Ashlee Jack: So I'll hand it over to Ryan to kind of go over the company priorities for the project delivery and so y' all can take a.
+Ashlee Jack: Understand, like how this works.
+Mark Lohr: Cool.
+Ryan Botindari: So obviously we have a few projects in flight and real quick, Mark is in flight.
+Ryan Botindari: You.
+Ryan Botindari: Or is that Logan?
+Mark Lohr: Sorry, what do you mean?
+Mark Lohr: The status of inflight.
+Mark Lohr: That's.
+Zaki Quereshy: Yeah.
+Mark Lohr: In place before.
+Mark Lohr: I mean in flights.
+Mark Lohr: I guess we all understand what that means, but in progress.
+Mark Lohr: Yeah.
+Ryan Botindari: While using inflight sounds good.
+Ryan Botindari: I just want to make sure.
+Ryan Botindari: But few, you know, some of the priorities.
+Ryan Botindari: Obviously, vantage point.
+Ryan Botindari: Right?
+Ryan Botindari: So for vantage point, Mark, you'll be running point on that.
+Ryan Botindari: David, you'll be focusing on the tech side of that for vantage point.
+Ryan Botindari: As of right now, we need to schedule the new reoccurring calls.
+Ryan Botindari: Obviously, you know, maybe you, me and David, let's stay on after this call just for five minutes to just talk about that because I know at the end of the year we wanted to figure out if we wanted to have like kind of a smaller group or have that larger group, me, every week.
+Ryan Botindari: So let's, let's make sure we lock that down.
+Ryan Botindari: And then, Mark, I'll have you reach out to Elham and set that up.
+Ryan Botindari: Then we have open asset.
+Ryan Botindari: So open asset.
+Ryan Botindari: Mark, you'll be running point on open asset.
+Ryan Botindari: I'll be running support for open asset, the 15th.
+Ryan Botindari: So January 15th is our onboarding call.
+Ryan Botindari: So obviously between now and the 15th, I'll reach out to Linda and see if we can start getting a little bit of that data put in before the onboarding call starts.
+Ryan Botindari: But that will be a huge priority.
+Ryan Botindari: We're very close to getting that ready, which is exciting.
+Ryan Botindari: Monday.com.
+Ryan Botindari: so obviously, David, we got internal Monday, but then you have ice Monday, so priority needs to be ice is Monday.
+Ryan Botindari: So Monday.com we have enterprise set up.
+Ryan Botindari: David, that's all good, right?
+Ryan Botindari: Enterprise.
+David Hogg: Yeah, I gave you a thumbs up.
+Ryan Botindari: Sorry, sorry.
+Ryan Botindari: No, no problem.
+Ryan Botindari: So Monday.com is good for Enterprise.
+Ryan Botindari: We'll give it less bright on making sure we get the single sign on started.
+Ryan Botindari: So why don't you reach out to him after this call, Just say, you know, on that same thread that we reached out to him at the end of the year, just say, hey, we're ready to get a Single sign on started.
+Ryan Botindari: So can we please set up a meeting and then have me included and then you know, the internal LLM or MPC server, MC server.
+Ryan Botindari: Sorry Zaki, you're obviously running point on that for right now.
+Ryan Botindari: You can use David as support if needed, but it seems like you have it all taken care of so that's great.
+Ryan Botindari: And then as far as Billy, make sure that's fully functional.
+Ryan Botindari: I know we did some of the testing at the end of the year.
+Ryan Botindari: If there's any more testing that needs to be done, let us know.
+Ryan Botindari: But otherwise I feel like we're ready to be fully functional with Billy and then Kyle running the training.
+Ryan Botindari: So what I want to make sure we do is we create some sort of training environment or repository so that the ICE team can go in as well as our internal team go in and have a way to speak to, you know, the data and say, hey, I want a training on blank and you can search it and then be able to find the video that support whatever you're searching for.
+Ryan Botindari: So David, David and I will be running support on that with you Kyle, and getting that taken care of.
+Ryan Botindari: And then the ticketing system.
+Ryan Botindari: You know, I was talking to Mark about this.
+Ryan Botindari: It looks like it's on pause right now.
+Ryan Botindari: So I know Mark, he'll be working with Nancy on getting back on that but not a priority at this moment.
+Ryan Botindari: But I think that covers all the projects we have right now in flight.
+Ryan Botindari: So we'll keep working on those and keep delivering.
+Ryan Botindari: But Monday.comopen asset are both being delivered and then vantage point.
+Ryan Botindari: Let's make sure we have a priority on that.
+Ashlee Jack: One thing that I wanted to ask about was as far as Zachi, when with the AI powered like LLM, I know that we have been billing but not really communicating with the client.
+Ashlee Jack: What's going on with that.
+Ashlee Jack: So can you get with.
+Ashlee Jack: You can discuss right now, but can you also get with Mark to make sure that that's put on as far as the update to Nancy, because she did ask me about it and so I just kind of, I didn't realize how much we were doing on that.
+Ashlee Jack: So if you can get that with him.
+Mark Lohr: I did send her some communication on the 26th and the weekly update, so whatever was current from the 26th is what she got.
+Mark Lohr: I don't know if you received communication from Nancy before or after that, but she should have some and she was out until today.
+Ashlee Jack: So yeah.
+Ashlee Jack: So the one on the 26th, do you mean that that was regarding the AI powered LLM?
+Mark Lohr: Well, just the list of the projects, the kind of the high level overview of where we are on each one.
+Ashlee Jack: Was it included though?
+Ashlee Jack: That was the one that.
+Mark Lohr: Yeah, AI powered LLM was on there.
+Ashlee Jack: Okay.
+Mark Lohr: But I can go with Zachy to just make sure that what I sent to her was current and accurate.
+Zaki Quereshy: Mark.
+Zaki Quereshy: Mark sent me an email and I verified some stuff.
+Zaki Quereshy: But Mark, if I want to talk about what's more billable now, we should probably meet later because a lot of work's been done.
+Zaki Quereshy: The point where I think that I can start development on ISIS MCP server because I'm getting very comfortable in the, in like figuring out the tech stack for it.
+Zaki Quereshy: It's a very like unique tech stack with very unique challenges and I suspect more with ISIS scale and need for government compliance.
+Zaki Quereshy: So I need, I need more information from them as to how they handle their IT and their admin stuff.
+Zaki Quereshy: We can connect later on that and also as what Ryan said.
+Zaki Quereshy: So I put in some extra hours yesterday and Billy is all up for production for the new employees as well.
+Zaki Quereshy: What I did yesterday was I made a QuickBooks authentication management system so that whenever we have new employees, I just run a script on my computer and the database is now refreshed for every new employee.
+Zaki Quereshy: So I should never have to make that setup again.
+Zaki Quereshy: Just put in some hours to make that happen yesterday.
+Zaki Quereshy: Here is the documentation for new employees.
+Zaki Quereshy: I just sent it in the chat right now.
+Zaki Quereshy: Make sure you use that.
+Zaki Quereshy: It should work for all of you.
+Zaki Quereshy: You guys should see in your Monday logs for new employees.
+Zaki Quereshy: I tested some logs through your name earlier and it came through.
+Zaki Quereshy: The issue with assistance Iana Lua is that she's, she's.
+Zaki Quereshy: And she's on her QuickBooks as an employee.
+Zaki Quereshy: So when she uses it also assistance isn't mapped to iana Lua and so there's like a weird thing where she's a contract employee I believe, according to QuickBooks and so QuickBooks can't match her so she cannot use at the moment unless until she gets.
+Ashlee Jack: Sorry.
+Ashlee Jack: Thank you for doing the documentation.
+Ashlee Jack: I love that you already took the initiative, but let's focus on Billy and another call whenever we can do a training on it because right now like no one, especially the three new employees, they don't know anything about Billy.
+Ashlee Jack: So let's, let's go.
+Ashlee Jack: I'm a schedule the same thing as like Monday, the training later today with David and Ryan and Kyle.
+Ashlee Jack: So we'll do the same thing but later on this week.
+Ashlee Jack: But before we do that, I want to see what the back end looks like, as far as, like, how it's recorded in Monday and then how it's also recorded in QuickBooks before we launch it to the team.
+Ashlee Jack: So let's get together either later today or tomorrow to go through that and then we'll set a time that you can go through it in detail.
+Zaki Quereshy: All right, sure.
+Zaki Quereshy: That sounds like a much better idea.
+Zaki Quereshy: Thank you.
+Ashlee Jack: Awesome.
+Ashlee Jack: Thank you.
+Ashlee Jack: All right.
+Ashlee Jack: Anything else, Ryan?
+Ryan Botindari: No, that's.
+Ryan Botindari: It covers all of them.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: And then I know that there's been like, a lot going on as far as like the different project ops and stuff like that, but does anyone.
+Ashlee Jack: Rachel, Todd, Kyle, do you all have any questions about anything that was said?
+Todd Fernley: The only question I was, is there a central repository for all documentation for just like, reading material?
+Ashlee Jack: So, yeah, so we have Box, which I'm going to get, make sure that we go through all of the onboarding checklist and make sure that you'll have access to everything.
+Ashlee Jack: But yeah, box will be our one source of repository.
+Ashlee Jack: Okay.
+Ashlee Jack: And then let's see.
+Ashlee Jack: Any other questions?
+Kyle Dalton: Not listening.
+Ashlee Jack: And then a couple housekeeping things.
+Ashlee Jack: Rachel, me and you will meet at 11 today to go over just some of the marketing needs.
+Ashlee Jack: Me, Todd and Ryan will go for some of the business development later today at 2.
+Ashlee Jack: Ryan, Kyle and David will meet on Monday just to go through, like, how ICE is utilizing it.
+assistance: What.
+Ashlee Jack: How Kyle can start building out training materials for it, and then the training on how we can all start using it together as a team internally for our projects and for ISIS projects.
+Ashlee Jack: And so that will be at 12:30 today.
+Ashlee Jack: And then I'll have a check in with Kyle at 4 just to see how your day went.
+Ashlee Jack: And then same thing, me and Addie will go over that to later today on some of the other housekeeping stuff with like, sam.gov and then I guess since we already have the time, what I can do is go through the KPIs now.
+Ryan Botindari: Sure.
+Ashlee Jack: And then I can just always.
+Ashlee Jack: I can cancel that next meeting.
+Ashlee Jack: And then we could probably meet with Todd so we can go over the business development needs at that time, if that works for everyone.
+Ashlee Jack: Okay, let me share my screen.
+Ashlee Jack: Okay, so like I said, make sure that y' all take a glance at like, the agenda for every meeting beforehand.
+Ashlee Jack: Make sure that you understand, like, what you're supposed to bring to the table and so forth.
+Ashlee Jack: And then we'll go over as far as like, the standard, the standards for creating a calendared event.
+Ashlee Jack: So if it's something that you.
+Ashlee Jack: We have a note taker.
+Ashlee Jack: And David built out an automation that takes all of the tasks and puts it into our Monday board, which are Monday they keep hearing about is where we track our projects.
+Ashlee Jack: It's like our own CRM.
+Ashlee Jack: So the note taker that we currently have on our calls are going to summarize and then take all the task items and then move it over to our Monday board.
+Ashlee Jack: But it'll only do that if you type in here, right here at the top, RVA consulting with this pipe behind it.
+Ashlee Jack: And then you can put whatever the title of the meeting is for.
+Ashlee Jack: So you want to make sure that you do that and that way it's recorded.
+Ashlee Jack: And then if it's something that you don't want added, you would put PC.
+Ashlee Jack: And I mean it's private conversation.
+Ashlee Jack: And just So I am 100% sure that is how it works.
+Ashlee Jack: Right, David?
+David Hogg: Just the, the second part being.
+David Hogg: The first part being the client name.
+David Hogg: Yes.
+David Hogg: The second part being the project title.
+David Hogg: And then if they want to put meeting details, that's the.
+David Hogg: If they, they need another pipe.
+Ashlee Jack: Okay, so should we put Arbea Consulting or should we also put ICE for.
+David Hogg: Our client or what?
+David Hogg: It depends.
+David Hogg: It depends on what the project is for.
+David Hogg: So like if we have a STEMO call, it would be ice.
+Ashlee Jack: Okay, so you would just put ICE here.
+Ryan Botindari: Yeah.
+Ashlee Jack: And then the pipe.
+David Hogg: Yep, ICE pipes is Stemmo.
+David Hogg: Because this, I can go over it briefly in the Monday.com one if you want to, because then I can use some examples.
+Ashlee Jack: Yeah, that'd be great if you can go over that with Monday later.
+David Hogg: Yeah, no problem.
+Ashlee Jack: Okay, so yeah, so make sure that you go through it.
+Ashlee Jack: And so like I said, the 9am Monday meeting, that'll be more for leadership.
+Ashlee Jack: Just like again, directing everyone so where we have clear focus every single week.
+Ashlee Jack: And so you have an idea of what you're supposed to be doing and so you're not having to like kind of find something to do.
+Ashlee Jack: So.
+Ashlee Jack: And so we have those priorities set and then let's see.
+Ashlee Jack: And then on Fridays, so we have the same thing Fridays.
+Ashlee Jack: So we'll be.
+Ashlee Jack: And this is going to be more of like a team team meeting where we won't be necessarily direct, we'll be directing the call obviously.
+Ashlee Jack: But like we'll want everyone's to be prepared for this.
+Ashlee Jack: And so this will be the close of the week, just kind of like going through like what happened that week because you know, we're all remote right now.
+Ashlee Jack: Even when we do have an office relatively soon, I still want to make sure that we are still recording these meetings and we're still going forward with these and this is a good way to just check in with everyone.
+Ashlee Jack: So what are the wins?
+Ashlee Jack: You know what happened this week that was good?
+Ashlee Jack: Hopefully everyone has something to say.
+Ashlee Jack: But yeah, so one quick win of the week.
+Ashlee Jack: What moved forward, what went backwards?
+Ashlee Jack: High level, no really big deep dives.
+Ashlee Jack: Should.
+Ashlee Jack: This should be only a couple of minutes per person.
+Ashlee Jack: Any blockers, anything that you're waiting on to move forward.
+Ashlee Jack: So you'll make sure that you want to come prepared with that.
+Ashlee Jack: And then what's your priority for next Monday?
+Ashlee Jack: So make sure that you're staying organized.
+Ashlee Jack: So this will be every Friday as a team call and then, and then Ryan, he has a call as well booked where it'll be the tech updates.
+Ashlee Jack: So this is should be honestly like a short, like 15, 30 minute call where we'll just go over is there any technologies that we are missing that we need to be looking into or we need to have set up?
+Ashlee Jack: Such as like, like scribe how for instance for Kyle, I'm sure you'll need that or loom or something like that and that way we can go ahead and get you onboarded and go ahead and pay for it.
+Ashlee Jack: So whatever y' all need.
+Ashlee Jack: That will be the almost like a call and then okay and then midweek team huddle.
+Ashlee Jack: So again, kind of similar to Friday, this is just going to be a short like 30 minute call where everyone's just kind of make sure that you go through this right here.
+Ashlee Jack: So this is going to be your agenda.
+Ashlee Jack: Right.
+Ashlee Jack: So the rest is kind of like what I'll be asking and I'm going to make this a lot shorter too.
+Ashlee Jack: So what did you commit to last week?
+Ashlee Jack: Where is it at?
+Ashlee Jack: Was it completed?
+Ashlee Jack: What are you committing to again before next week?
+Ashlee Jack: So for example, last week I committed to finalizing the PM board structure.
+Ashlee Jack: This week I'll be committing to building automations for data flow.
+Ashlee Jack: So whatever that looks like.
+Ashlee Jack: And then I will go over just like hey, this is where you're at as far as your billable hours for anyone that is billable.
+Ashlee Jack: Again, just anything that's blocking you from doing what you need to get done and then anything that y' all have as far as like leadership on how we can do better as well.
+Ashlee Jack: So anything, you know, you have in mind and then the whole point of this is really like for storytelling or side conversations, it's going to be like really clear and organized.
+Ashlee Jack: I do always like to have like a little bit of time like before and after a Meeting to just kind of like set the tone of like, we are a team, we are friends.
+Ashlee Jack: But like during the actual call, let's try to stay a little focused.
+Ashlee Jack: Okay.
+Ashlee Jack: And that is kind of all the meetings for the week as far as like the weekly meetings and then as far as the.
+Ashlee Jack: Okay, one second.
+Ashlee Jack: Let me pull up these documents.
+Ashlee Jack: Okay.
+Ryan Botindari: I would hope shower and breakfast are every day, not just Mondays, but.
+Ryan Botindari: Just kidding.
+Ashlee Jack: That's my weekly shower.
+Mark Lohr: Especially when we start coming to the office.
+Ryan Botindari: Right?
+Ashlee Jack: Yeah.
+Ashlee Jack: You know, I will go up to two showers up.
+Addie: I'll remind her.
+Ryan Botindari: There you go.
+Ryan Botindari: Thanks, Daddy.
+David Hogg: That was actually a New Year's resolution, Ryan.
+Ashlee Jack: Yes.
+Ashlee Jack: To shower twice a week.
+Ashlee Jack: Yeah.
+Ashlee Jack: Okay.
+Ashlee Jack: So going over the performance operating system.
+Ashlee Jack: So just kind of going over some KPIs and this is going to take over for the next meeting and that way we can.
+Ashlee Jack: I can cancel that meeting and then I'll probably move you up, Todd, so we can start getting you in there.
+Ashlee Jack: I know you're here to get started, so.
+Ashlee Jack: All right, so company level KPIs.
+Ashlee Jack: So KPI no one knows or anyone knows what it means is key performance indicators.
+Ashlee Jack: It's what is going to allow you to understand how you're doing in your role.
+Ashlee Jack: And it's like loose metrics of like this is what you should be aiming towards.
+Ashlee Jack: And it's not so much like specific metrics in this specific industry or instance.
+Ashlee Jack: We'll probably build out some more in depth KPIs as time goes on.
+Ashlee Jack: But right now this is what we have and these are what's really important specifically for the mission of rva.
+Zaki Quereshy: So.
+Ashlee Jack: This is the company wide so on time delivery percent.
+Ashlee Jack: So if we say that we're going to commit to this date, let's try to make sure that we get it to them by that date.
+Ashlee Jack: I'd rather overestimate on time and then to be able to perform faster and to deliver faster than the other way around where we have to keep pushing deadlines or we're inconsistent.
+Ashlee Jack: So again, always give yourself a little bit more time to complete a project or a task.
+Ashlee Jack: Don't think that it has to get done right away.
+Ashlee Jack: Just make sure that you communicate whether or not you have any hiccups or anything like that that you need more support or more time with.
+Ashlee Jack: So again, just make sure you communicate on that.
+Ashlee Jack: So monthly recurring revenue, that's more on like, you know, the leadership side.
+Ashlee Jack: Make sure that we're billing the amount of time that we are setting those priorities and we're getting more work client Retention, expansion.
+Ashlee Jack: So how are we communicating with our clients is super important because I mean clients are everything, right?
+Ashlee Jack: So we have to make money in order to keep doing business.
+Ashlee Jack: So making sure that we are bringing on new clients and that our clients are wanting to stay with us because they see the value.
+Ashlee Jack: And I will say that everyone here has done a remarkable job of keeping ice.
+Ashlee Jack: Our biggest client, like has multiple clients within it, super happy.
+Ashlee Jack: Everyone there has been like talking about how amazing our team has been as far as communication, as far as delivery, the understanding their needs and their wants.
+Ashlee Jack: That's super important.
+Ashlee Jack: Just because we think that, hey, this is an easier way to do it may not be best for them.
+Ashlee Jack: So really understanding what they want in a system and then delivering that to them.
+Ashlee Jack: So making sure that we continue to do that moving forward.
+Ashlee Jack: And that's just by honestly communicating, taking the time to reach out to them and understanding them from a human level as well.
+Ashlee Jack: I know that we've had quite a bit of uphill battle with adoption from the ICE team, but they've really come a long way.
+Ashlee Jack: So great work everyone.
+Ashlee Jack: Okay, so internal rework, fire drill Ray, nothing crazy that we've had to go through, but over like the 10 like meeting and operations, like there's always going to be fires.
+Ashlee Jack: So the way that we handle those as a company I think is going to be really important.
+Ashlee Jack: So like making sure that we all work together as one team and then again not really like for you all, but gross margin per client.
+Ashlee Jack: So making sure that we utilize our time the best as possible in this way that will, the company will stay healthy and we'll continue to move forward.
+Ashlee Jack: Okay, so before I move into the second one, any questions?
+Ashlee Jack: Party?
+Ashlee Jack: All right, so behavioral KPIs so non negotiable.
+Ashlee Jack: So these are must be's.
+Ashlee Jack: So on time delivery of assigned work.
+Ashlee Jack: Again, ask for more time if you need it, just don't.
+Ashlee Jack: Just don't do it or don't communicate that to me will strike that you're inconsistent.
+Ashlee Jack: So just make sure that if you need more time, just ask for it.
+Ashlee Jack: Work is documented before being marked as done.
+Ashlee Jack: So if you are complete with a project, but nothing has been documented, it's not done yet.
+Ashlee Jack: So make sure that you follow all the steps.
+Ashlee Jack: And since we're a startup, you're going to have to create those steps, but make sure that you document everything.
+Ashlee Jack: And this is why also Kyle has been brought to our team to help us to, you know, make sure that we're documenting everything.
+Ashlee Jack: So yeah, so for anyone that Wants to know, party whenever I say that just means like, let's go.
+Ashlee Jack: All right, so weekly, I think written updates, submit on time.
+Ashlee Jack: So, okay, so like weekly syncs in Monday, which Dave will go over.
+Ashlee Jack: Just make sure that we're communicating, we're documenting everything that we're submitting, like our EODs and stuff like that as well.
+Ashlee Jack: And then like we're responding to clients within a reasonable amount of time.
+Ashlee Jack: Like you don't have to respond to them right away, but like, make sure that, you know, it's not dragging on.
+Ashlee Jack: So proactive risk blogging.
+Ashlee Jack: So making sure that, you know, if there's an issue, please come to me or Ryan, please come to us.
+Ashlee Jack: If there's something that's stopping you from, you know, doing your work or there's something that like, you know, personnel or whatever it may be, please come to us so we can fix it.
+Ashlee Jack: I'll never be mad if you come to me, but if I find out later, I will be mad.
+Ashlee Jack: So that's just a little bit about me.
+Ashlee Jack: So please come to me.
+Ashlee Jack: If you make a mess up, if you fuck up something, by all means, most things can be reversed, you know, so.
+Ashlee Jack: But just come to me.
+Ashlee Jack: I can't fix something I don't know about.
+Addie: Okay.
+Ashlee Jack: Accurate and up to date Monday.com tracking again, Dave will go over this in his training, but please make sure that we are utilizing Monday and we are tracking everything and communicating through it.
+Ashlee Jack: Because.
+Ashlee Jack: Because it's going to be really important for us to stay up to date on everything but also stay organized as a team and you can always look back in and then no surprise escalations, going back to proactive risks flagging.
+Ashlee Jack: So any issues or anything like that, please, please, please let me know.
+Ashlee Jack: If you feel like a client is in a meeting and I'm not in that meeting or Ryan's not in a meeting and you feel a client is like being a little aggravated or annoyed or some, you just can tell that the temperature is a little bit heated, please let us know sooner rather than later because I'd rather try to step in and figure it out even.
+Ashlee Jack: And I'm not going to be mad.
+Ashlee Jack: It's just again, we have to figure out what is going on and so the best way is for y' all to tell us.
+Ashlee Jack: So.
+Ashlee Jack: Any questions?
+Ryan Botindari: Okay.
+Ashlee Jack: All right.
+Ashlee Jack: So going into like the role by role KPIs.
+Ashlee Jack: So for me, my goal is to continue to build and retain strong leaderships and also partnerships and positioning and then for long term company value creation, the vision to Give you all the support and the resources that you need to be there as that sounding board to make sure that we're moving forward together as a company.
+Ashlee Jack: Ryan his is going to be team clarity alignment that operational efficiencies approve improvement sorry Execution, visibility and meeting cadence.
+Ashlee Jack: So making sure that you know things are getting done and that we're staying true to what those meetings agendas are.
+Ashlee Jack: Mark Our senior pm so client satisfaction and confidence making sure that you know they really understand what we're doing, how we are adding value to their company is going to be super important.
+Ashlee Jack: And then internal team coordination and clarity.
+Ashlee Jack: So making sure that you know the like Zachy and David and Kyle that you all have like what you need in order to move forward making sure that you all understand the task at hand and then just making sure that Monday board is up to date so the project health visibility and risk management is able to be seen by leadership.
+Ashlee Jack: So okay, any questions on those three before I move in?
+Ashlee Jack: Okay.
+Ashlee Jack: Automation and ERP.
+Ashlee Jack: David so visibility into work in progress Monday.com reliability and stability of automation.
+Ashlee Jack: So making sure that you're building these out to be stable which I think you're really great at.
+Ashlee Jack: So knowledge transfer to teams.
+Ashlee Jack: So understanding how they work and then making sure that you get with Kyle to provide all of that documentation and training.
+Ashlee Jack: AI integrations.
+Ashlee Jack: AI and integrations Zacky so you know really adding business value to AI and then making sure sure that it's staying in guidelines and guardrails which we'll have someone responsible for but making sure that the accuracy of the AI and the usefulness is there and that there's clear handoff to PMs and clients and Kyle's the training and enables enablement specialists so which rolls into Kyle.
+Ashlee Jack: So tool adoption rates so all of the different platforms like making sure that everyone understands how to use those tools.
+Ashlee Jack: Kyle is going to be super important and then making sure that we are tracking like that and if there is some additional training needed making sure that we get that done.
+Ashlee Jack: Measurable workflow improvements, speed and quality of new hire ramp ups etc.
+Ashlee Jack: I know today is going to be a little bit long with like just like training stuff but eventually we'll get into some more fun work.
+Ashlee Jack: So okay marketing for Rachel so you're going to be support effectiveness for Todd as business development me and Todd and Ryan.
+Ashlee Jack: So proposal win rate, contribution, messaging, clarity and consistency is going to be super important.
+Ashlee Jack: So making sure that everyone online and in person understands who we are, what we do, what's the vision, what's our values etc.
+Ashlee Jack: And then business development and government Todd so building out that government contracting pipeline and progressing it, you know, revenue close deal quality and deliver delivery readiness.
+Ashlee Jack: So making sure that we have everyone available for that, making sure that we're going after projects that are within our abilities, et cetera.
+Ashlee Jack: And then operations and executive support.
+Ashlee Jack: Addy so leadership leverage through task offloading, accuracy and time of operational support, systemized internal processes and follow through.
+Ashlee Jack: So just making sure that you follow up on all the the tasks that have been assigned to you and making sure that you are keeping a log of like what needs to still get done.
+Ashlee Jack: And then same thing with Operations Assistant Yanalua.
+Ashlee Jack: So reliability and consistency of task execution, accuracy of internal tracking updates, speed, speed of turnaround on assigned request and then so that'll be through clear communication and confirmation of completion and that is it.
+Ashlee Jack: So any questions on any KPI's party?
+Ashlee Jack: All right, so I think that is good for right now as far as like what we need to discuss on those and we'll continue to move forward with like more operating standards and in the future.
+Ashlee Jack: So like how to use certain tools as I mean realistically we're a brand new company that's only been around for like four months, five months and so we're growing rapidly.
+Ashlee Jack: I'm really excited about how fast we're growing and I feel like we have like the best talent, especially in the Southeast for sure.
+Ashlee Jack: And so we have so much to go.
+Ashlee Jack: We have some so far to go and we have so much to do.
+Ashlee Jack: But I really do feel like this is the team that is going to get us there.
+Ashlee Jack: So I'm really excited that everyone is going to be here working hard and working towards that one mission.
+Ashlee Jack: Yeah, anything Ryan you want to end on?
+Ryan Botindari: No, I'm just excited for the new faces, excited to get to know you guys more and really get an idea of how I can help you and be a support to you guys.
+Ryan Botindari: And then for the other folks, been awesome working with you guys so far.
+Ryan Botindari: Excited to continue that.
+Ryan Botindari: And like David said earlier, David and I and Kyle have worked together in the past.
+Ryan Botindari: It's cool to see it come full circle and have him a part of the team.
+Ryan Botindari: But great team, so much talent here, very excited.
+Ryan Botindari: If you need me, please, please, please use me.
+Ryan Botindari: I will be able to help.
+Ryan Botindari: I'll try to help you in any way I can.
+Ryan Botindari: But no, just excited.
+Ryan Botindari: 2026 baby.
+Ryan Botindari: Here we go.
+Ashlee Jack: 2026.
+Ashlee Jack: Any other words for anyone?
+Ashlee Jack: Wow, y' all are silent.
+Ashlee Jack: Come on, David.
+Ashlee Jack: Anything from You Anything from me?
+David Hogg: Yeah, I was going to ask Ryan who he wanted to stay on the call.
+David Hogg: I couldn't remember if it was me or not, but I hope everyone had a happy holidays.
+David Hogg: Happier than, you know, me sitting down by myself.
+Ryan Botindari: Oh, oh, oh, oh.
+Mark Lohr: For everyone.
+David Hogg: Because Mark.
+David Hogg: Mark came to my home where I live and didn't text me.
+Mark Lohr: Oh, bro.
+Zaki Quereshy: Baby.
+David Hogg: Though he gets a pass called out.
+David Hogg: This is being dramatic.
+Ryan Botindari: Okay.
+Ryan Botindari: For everyone who needs to know, David is our company, Eeyore.
+Ryan Botindari: So if you ever need.
+David Hogg: Any Orion's problems anymore.
+Ashlee Jack: None.
+Ryan Botindari: That's it.
+Zaki Quereshy: Zero.
+Ryan Botindari: But no.
+Kyle Dalton: Anyway.
+Ashlee Jack: Nope.
+Ryan Botindari: Exciting, guys.
+Ryan Botindari: Hope you're all excited.
+David Hogg: All right, who's staying on you and Mark?
+Ashlee Jack: Okay, one question.
+Addie: One question.
+Addie: When I do set up this demo, hopefully people are back to work like we are today.
+Addie: But when I do set up this, the workdays ERP demo that I'm setting up for later in this week, hopefully for Thursday or Friday, and it's going to include Mark, David, Ryan, and Ashley.
+Addie: Are y' all going to report back to Elham or did you want him included on that demo?
+Ryan Botindari: I'd say add just Adam, Right?
+Ryan Botindari: Why not?
+Ashlee Jack: I'm just.
+Ashlee Jack: I'm just.
+Addie: I can just invite him and just heal.
+Addie: He can decline or accept, right?
+Ashlee Jack: Yeah, I think that's a good idea.
+Ashlee Jack: Okay, that'll be fine.
+Ashlee Jack: Great question.
+Ashlee Jack: Any other questions before we hop?
+Ashlee Jack: Zach, you looking fresh with their hair, man.
+Ashlee Jack: Didn't change nothing.
+Zaki Quereshy: I just.
+Zaki Quereshy: My hair is better some days than there's others.
+Addie: Let us see your calendar.
+Addie: You got a weekly shower?
+Zaki Quereshy: Oh, shower.
+Zaki Quereshy: Actually, twice a day.
+Zaki Quereshy: Twice a day.
+Ashlee Jack: Get it?
+Ryan Botindari: Twice a day.
+Zaki Quereshy: Dude, the one thing about Pakistani culture is that you shower a lot, which seems counterintuitive to the street food videos, but it's true.
+Ryan Botindari: It's true your neighbors don't feel the same, but.
+Zaki Quereshy: Well, I mean, the Indian fellas of the Southeast.
+Zaki Quereshy: Yeah.
+Ashlee Jack: So we're saying.
+Ashlee Jack: So what we're hearing is that they're cleaner in Pakistan than they are in India.
+Zaki Quereshy: You're probably hearing generational propaganda from my.
+Zaki Quereshy: My grandparents that went to war against India.
+Ashlee Jack: Oh, yeah, by the way, Zach is in Charleston, by the way.
+Ashlee Jack: So I think the only one.
+Ashlee Jack: Only two that are.
+Ashlee Jack: Or three, I guess, that don't live in Charleston is going to be Kyle, Ryan, and Yan Lua.
+Ashlee Jack: But, David, you're moving to Charleston, right?
+Ashlee Jack: Yeah.
+Ashlee Jack: And then I'll be in between.
+Ryan Botindari: I'll be in between.
+Ashlee Jack: Yeah.
+Addie: And then, David, you can be alone with me.
+Addie: I mean, not like.
+Addie: Like that.
+Addie: I mean, that was, like, inappropriate, but I mean, you know what I'm saying?
+Addie: Hang out.
+Zaki Quereshy: Yeah, I'll have.
+David Hogg: I'll have Ryan crashing on my couch for one week a month.
+Ryan Botindari: Hey, I thought I'd get my own room.
+David Hogg: No, you do.
+David Hogg: You do.
+Ashlee Jack: All right.
+Ryan Botindari: At least I get a room, not just a couch.
+Mark Lohr: So David's in Charlotte.
+Ashlee Jack: You get a room, but you're still sleeping on a couch.
+Ryan Botindari: A couch in the room that works.
+David Hogg: Bed not provided.
+Ryan Botindari: Futon, please.
+Ryan Botindari: I really want a futon.
+Mark Lohr: Where are you, Kyle?
+Kyle Dalton: I'm in Georgia.
+Kyle Dalton: Brunswick area.
+Mark Lohr: Okay.
+Ashlee Jack: Not too bad, not too bad.
+Kyle Dalton: A three hour drive from Charleston.
+Zaki Quereshy: You.
+Ryan Botindari: Get a couch at David's house.
+Ryan Botindari: That one's actually more accurate.
+Ryan Botindari: You get a couch.
+David Hogg: If the town hall goes through, I'm gonna have two guest rooms.
+Mark Lohr: There you go.
+Mark Lohr: Satellite office.
+Addie: We got you, Lou.
+Addie: We got you, Lou.
+Addie: You can come, too, Luana.
+Addie: I call her Lou.
+Addie: I can't say all that.
+Ashlee Jack: And then Rachel and Zach, y' all both live downtown?
+Rachael Lindblom: Yeah, I'm downtown.
+Zaki Quereshy: Sweet.
+Ashlee Jack: And then Mark and Todd, y' all will live in Mount Pleasant.
+Mark Lohr: That's right.
+Addie: Well, I'm checking on a cool spot today, so send good vibes for the irs, the office space.
+Addie: And so I'll report back.
+Addie: But yeah, I'm requesting a.
+Addie: You know, I'm asking for a spot for nine people, so.
+Ashlee Jack: Let'S see what happens.
+Ashlee Jack: Good luck, and we'll continue to grow.
+Ashlee Jack: All right, guys, I will see y'.
+Zaki Quereshy: All.
+Ashlee Jack: And I'm like, I said, I'm gonna cancel the next meeting.
+Ashlee Jack: I'll just move it.
+Ashlee Jack: Because I know that there's more, like, company standards I want to go through, but I don't want to, like, just bombard y' all all with it one day just because it kind of gets a little, like, overkill.
+Ashlee Jack: So I will reschedule that to another day this week.
+Ashlee Jack: And then I will sync with you, Todd, to kind of go over what we'll do.
+Ashlee Jack: And then Rachel, 11, and then you all have your barking orders.
+Ashlee Jack: Cool.
+Zaki Quereshy: Sounds, Ryan.
+Zaki Quereshy: I'm meeting with Mark at 10:30 to go over some of the AI powered LM and MCP billing stuff.
+Zaki Quereshy: You want to hop in on that meeting so we can talk about what we need and stuff?
+Ryan Botindari: Yeah, if I can.
+Ryan Botindari: Absolutely.
+Ryan Botindari: Just to make sure.
+Zaki Quereshy: Yeah, I'll jump to it.
+Ryan Botindari: All right, cool.
+Ryan Botindari: All right, see you guys.
+Zaki Quereshy: I can take it easy.
+Addie: Thank you.
+Ashlee Jack: Happy New Year.
+Zaki Quereshy: Bye.
+Ashlee Jack: Bye.
+Mark Lohr: Ryan.
+Mark Lohr: Are we staying on this one or just.
+Mark Lohr: Are we doing.
+Mark Lohr: Going to a new one?
+Ryan Botindari: Yeah, we'll just be really quick.
+Ryan Botindari: So with the vantage point, it Looks like Elham's gonna be kind of the.
+Ryan Botindari: I mean.
+Ryan Botindari: I mean, temp.
+Ryan Botindari: He may have Temple be that person, or maybe even Nancy, for that matter.
+Ryan Botindari: Means he was on the last call, right?
+David Hogg: Yeah, Nancy's on all of them.
+Ryan Botindari: Right.
+Ryan Botindari: So maybe.
+Ryan Botindari: Maybe get with Nancy and just say, hey, I know we met at the end of the year, you know, to discuss Vantage Point.
+Ryan Botindari: You know, Wants everybody on there.
+Ryan Botindari: I know we want to have breakout sessions.
+Ryan Botindari: How do we do you want me to talk to Elham and just say, hey, there?
+Ryan Botindari: You know, our team thinks it's best to do a breakout session.
+Ashlee Jack: Yeah.
+David Hogg: I mean, Nancy is fine to have on all of them because she's like the facilitator.
+David Hogg: So she organizes the calendars and all that.
+Mark Lohr: She doesn't.
+Mark Lohr: She doesn't get us.
+Mark Lohr: She's not.
+Mark Lohr: She's not one of the ones steering us off track or like, she's.
+Mark Lohr: She just kind of does her thing in the background.
+Mark Lohr: But from the last call, you know, it was too much chatter, too much misdirection.
+Mark Lohr: So I think, you know, we.
+Mark Lohr: She sent it.
+Mark Lohr: She sent an email this morning with survey responses and questions.
+Mark Lohr: I know we talked about maybe using those as guides for the next call and hopefully can stay on track in that way.
+Mark Lohr: But yeah, if you want to chat with Ilham and just say we'd like a more focused, maybe smaller focus group.
+Ashlee Jack: Okay.
+Mark Lohr: I think that would.
+Mark Lohr: That would benefit.
+David Hogg: We can still do the big one, like once a month or once every two weeks or something, but just some focus groups to really.
+David Hogg: And maybe we don't do all the focus groups at one time.
+David Hogg: Maybe we pinpoint some issues first, see if we can fix some advantage point and then move on to the next group, get their issues.
+David Hogg: Maybe.
+David Hogg: Maybe we do them all in, like, one week to start, and then none.
+David Hogg: And then we pick which ones we're working on, and then we meet with them, you know, the week after, the week after, the week after until we finish or something.
+Ashlee Jack: But.
+Ryan Botindari: Okay, why don't we do this then, Mark?
+Ryan Botindari: Why don't you create that agenda?
+Ryan Botindari: What that could look like where it's like, hey, once a month we meet with the entire group, and then once, you know, once a week we meet with a focus group and.
+Ryan Botindari: And think of a couple maybe, you know.
+Ryan Botindari: All right, let me think.
+Ryan Botindari: So there's 10.
+Ryan Botindari: There's temple, and then there's P. They're all PMs, right.
+Mark Lohr: On the last call, it was Temple, Ilham, and then mostly PMS.
+Ashlee Jack: Yeah.
+Ryan Botindari: So Nancy.
+Ryan Botindari: Nancy, Temple, Elham, PMs.
+Ryan Botindari: So maybe what we do is we based on where they are.
+Ryan Botindari: So if they're Geotech PM or if it's DB pm, so each of the different segments of their business, they have a PM for that segment.
+Ryan Botindari: Maybe we focus on one per segment each time so we can focus on.
+Ryan Botindari: All right, what does design build need?
+Ryan Botindari: Design build needs.
+Ryan Botindari: Blah, blah, blah, blah, blah, blah, blah.
+Ryan Botindari: Great.
+Ryan Botindari: What is geotechne?
+Ryan Botindari: Is it similar?
+Ryan Botindari: This is what we've done for dv.
+Ryan Botindari: Do we want to do the same thing for you?
+Ryan Botindari: Just kind of get an idea from each of the groups.
+Ryan Botindari: Is that probably the best way to break out?
+David Hogg: What if we break it out how?
+David Hogg: We have their Monday boards broken out to where we have a small group of like.
+David Hogg: So they got three, right?
+David Hogg: But then we also.
+David Hogg: So we got accounting and then we got DB Design and cei, which mark, that may or may not make sense to you at the moment, but they have like, in their original CRM, they have 20 sheets of information.
+Mark Lohr: Okay.
+David Hogg: And each sheet is for a specific region slash industry type.
+David Hogg: So cei North Carolina, cei, Charleston.
+David Hogg: Cei, South Carolina Monday.
+Ryan Botindari: Real quick, Pull up their Monday real quick.
+Mark Lohr: And what is that?
+Mark Lohr: Ceif?
+Mark Lohr: We don't need it for construction engineering.
+David Hogg: Yeah, no, it's some build.
+Mark Lohr: It's.
+Ryan Botindari: No, it's inspections.
+David Hogg: Oh, yeah.
+Ryan Botindari: Yeah.
+Ryan Botindari: I don't know CE.
+Ryan Botindari: But yeah.
+David Hogg: So, okay, so they have three distinct.
+David Hogg: We were able to break it up into three distinct groups of regions.
+David Hogg: So you have CEIs, all one board in Monday design build, which is DB, is all one space in Monday.
+David Hogg: An actual design, which is separate from Design build, is its own space.
+David Hogg: And each of them has, you know, 10 tabs inside of Monday.
+David Hogg: So then each of those meetings, we may not need all 10, but that will be our space to like.
+David Hogg: Okay, well, let's get.
+David Hogg: You know, this is our target.
+David Hogg: You know, we want all.
+David Hogg: We want the DB members you think should be here, Nancy, who should be here from the DB side of things to discuss that.
+David Hogg: Because it might not be all 10 people.
+David Hogg: Maybe it is, but we'd leave it up to them at that point.
+David Hogg: Here's how we want to break it out.
+David Hogg: Who needs to be here specifically from this team to fill that request.
+David Hogg: So, and I can give you.
+David Hogg: I can provide you with some more details as to, like, what falls under what.
+David Hogg: Because some of those might not make sense to Nancy, but they would to, like Mitchell, who's been working with me on the CRM design.
+David Hogg: So I can send you a sheet of that information.
+David Hogg: But yeah, I'm down with that because it.
+David Hogg: Because.
+David Hogg: But then also ran plus accounting because it is also an accounting system.
+David Hogg: So they're their own focus group.
+David Hogg: And that's where Temple could be there.
+David Hogg: Temple is welcome to be there for the accounting side.
+David Hogg: I just don't want her there for every single meeting, you know?
+Mark Lohr: Yes.
+Mark Lohr: I mean, from the last call, she needs to have her own internal trainings on reports and stuff.
+Mark Lohr: Since she knows how to do it, she should be helping them with that.
+Mark Lohr: So are we thinking then more business function versus.
+Ashlee Jack: Like.
+Mark Lohr: Ryan, you were talking about possibly breaking out the PMs into segments, but.
+Ryan Botindari: Do.
+Mark Lohr: We want to do that or go with, like, accounting?
+Mark Lohr: PMs, arcade.
+Mark Lohr: I don't know what their other.
+Ryan Botindari: Well, so the accounting is one section of the business.
+Ryan Botindari: The design build is one section.
+Ryan Botindari: CEI is one section, I believe.
+Mark Lohr: Okay.
+Ryan Botindari: I would think that the project management day to day is different depending on which one of those that you're in.
+Ryan Botindari: Right.
+Ryan Botindari: So I feel like that would be the best way to break it out is by those sections.
+Ryan Botindari: And then, you know, again, we propose this.
+Ryan Botindari: That's why I think if you can type up something Mark or like, look, this is what our proposition is.
+Ryan Botindari: I'll get with Elham and I'll be like, hey, man, this is why we're doing it.
+Ryan Botindari: This is what I'm thinking.
+Ryan Botindari: We'll have like a sidebar conversation about it, and then he's either gonna say, yeah, I like that, or I don't, but at least have it in writing that you can copy Nancy and Elham on.
+Ryan Botindari: And then I'll talk with Elham and figure it out.
+Mark Lohr: Okay.
+Ryan Botindari: So yeah, I would just come up with something like, you know, some simple.
+Ryan Botindari: Again, once a month we meet as a full group, and then once a week we meet with, you know, each of them.
+Ryan Botindari: So what are there.
+Ryan Botindari: There's.
+Ryan Botindari: There's four accounting deep or five.
+David Hogg: What's the fifth?
+David Hogg: Marketing.
+Ryan Botindari: Accounting.
+Ryan Botindari: Well, accounting.
+Ashlee Jack: Marketing.
+Ryan Botindari: We'll just say no to that for right now.
+Ryan Botindari: Maybe Accounting, db, CEI and design.
+Mark Lohr: Yeah.
+Ryan Botindari: So just four.
+Mark Lohr: Okay, so DB is different from design.
+David Hogg: Yep, it's design, build and then design.
+David Hogg: One I think is more schematics and one is the actual, like, labor.
+Mark Lohr: Okay.
+Ryan Botindari: And again, he may say, hey, you know, you can do design and design build in the same one.
+Ryan Botindari: They have similar.
+Mark Lohr: Yeah, I don't.
+David Hogg: I don't think so.
+David Hogg: Just based on the last meeting we had.
+Ashlee Jack: Yeah, I got you.
+Ryan Botindari: But yeah, so we'll figure it out.
+Ryan Botindari: So, yeah, just come up with something quick, nothing crazy.
+Ryan Botindari: Here's our Proposition.
+Ryan Botindari: This is.
+Ryan Botindari: You know, I'll tell them the why.
+Ryan Botindari: You don't have to really include it if you don't want to.
+Ryan Botindari: You can if you want to and then we'll go from there.
+Ryan Botindari: Also my speaker.
+Ryan Botindari: I'm on my phone, so I kind of dance.
+Mark Lohr: Doesn't sound bad, but that's good.
+Ryan Botindari: At least it works.
+Ryan Botindari: Dumb.
+David Hogg: Ryan's technologically challenged.
+Mark Lohr: That kick ass setup, that picture you sent.
+Mark Lohr: I don't know, man.
+Mark Lohr: I thought I had.
+Mark Lohr: I had high faith in you.
+Ryan Botindari: I know, dude.
+Ryan Botindari: You think you would think.
+Ryan Botindari: You know what though?
+David Hogg: It's for the aesthetics.
+Mark Lohr: Cheap down speakers.
+Ryan Botindari: Look, I'm just pretty okay.
+Ryan Botindari: No, barely that.
+Ryan Botindari: But I'll.
+Ryan Botindari: I'll figure it out.
+David Hogg: If your computer can't space heat an apartment, it's not strong enough.
+Ryan Botindari: You got to get bitcoin miners.
+David Hogg: No, I did, I.
+David Hogg: When I was poor and worked at ERC and was broke and couldn't pay my heating bill, I just ran bitcoin miners on my two PCs and kept my apartment heated to 75 degrees all winter.
+Ryan Botindari: It's pretty wild how much it really does.
+Mark Lohr: Dual graphics, running sli.
+David Hogg: No, I had just two computers.
+Ryan Botindari: I'm surprised they haven't done this yet.
+Ryan Botindari: But what they were going to do is try to make.
+Ryan Botindari: Well, I guess they have, but just not to amass version.
+Ryan Botindari: But you could heat your home with obviously like you said, a bitcoin miner where you can make the cost almost net neutral.
+Ryan Botindari: Like as it mines, it's paying.
+Ryan Botindari: It would be paying your electric bill.
+David Hogg: The issue is the durability of that as opposed to a regular H vac system.
+Ryan Botindari: Right, right.
+Ryan Botindari: Because yeah, any moment you could have a big problem and you can't fix it, so good luck.
+Ryan Botindari: Not that you can fix an H vac system either, but.
+Ryan Botindari: But yeah, no, anyway, we won't go into the long tangents on that one, but.
+Ryan Botindari: All right, cool.
+Ryan Botindari: Just type, type that up.
+Ryan Botindari: Send that to me maybe before you send out and then let's just get it out.
+Ryan Botindari: Try to get that done today if you can.
+Ryan Botindari: If you don't.
+Mark Lohr: For sure.
+Mark Lohr: Yeah.
+Mark Lohr: Cool.
+Mark Lohr: Yeah.
+Mark Lohr: And I'm still gonna read.
+Mark Lohr: I haven't reviewed Nancy's email.
+Mark Lohr: She sent like right before our call, but it's quite.
+Ryan Botindari: Last week, so I'll.
+Mark Lohr: Catch up on that first before I.
+Ryan Botindari: Send out follow female Mark, glad to.
+David Hogg: Have you on the team finally, officially.
+David Hogg: I can.
+David Hogg: I can message you at 11 and get a response at 1101.
+David Hogg: It's gonna be great.
+Mark Lohr: Is that AM or PM?
+Mark Lohr: No guarantees on that one, but If I'm around and awake, for sure.
+Mark Lohr: No, happy.
+Mark Lohr: Happy to be on full time and kick some ass.
+Mark Lohr: Let's go.
+Ryan Botindari: All right.
+Mark Lohr: I'm just happy you made it back from Miami alive.
+Ryan Botindari: So, Rose, touching go.
+David Hogg: If he goes anywhere with John, I text him status reports.
+David Hogg: Because John's a dangerous human being.
+Ryan Botindari: Oh, dangerous.
+Mark Lohr: Is he from your previous company too?
+Ashlee Jack: Yeah.
+Ryan Botindari: Yeah, it was funny too.
+Ryan Botindari: He was.
+Ryan Botindari: He was at the thing.
+Ryan Botindari: He's like.
+Ryan Botindari: He's like.
+Ryan Botindari: It's weird, man.
+Ryan Botindari: Ryan, you know, I.
+Ryan Botindari: He used to be my employee and now I'm gonna be his.
+Mark Lohr: What the fuck?
+Ryan Botindari: Because we're trying to get him to be a part of it and some way shape or form, I thought.
+Ryan Botindari: That's funny.
+Mark Lohr: Sweet.
+Ryan Botindari: Yeah.
+Ryan Botindari: Cool.
+David Hogg: Ryan, I'm gonna meet with Kyle here, get him set up in Monday, get him started on some training stuff in the in between.
+David Hogg: I know we got that at 11, I think as well.
+David Hogg: But just to get a jump start on that since we don't have the Santa Claus now.
+Ryan Botindari: Yeah, no, that's good.
+Ryan Botindari: Just make sure.
+Ryan Botindari: So everything's good on Enterprise.
+Ryan Botindari: We're good on ISIS Monday.
+Ryan Botindari: We just got to wait for last for a single sign on.
+Ryan Botindari: Nothing else to do, everybody.
+David Hogg: I'm gonna go over it again today, but.
+Ryan Botindari: Yeah, and we gotta get it.
+Ryan Botindari: Yeah, we gotta get everybody.
+Ryan Botindari: Yeah.
+Ryan Botindari: Okay.
+Ryan Botindari: All right, cool.
+Ryan Botindari: When you're talking with Kyle between now and then, like the priority needs to be when we have this Monday.com training@ what is it, 12:30.
+Ryan Botindari: Please, please, please, please make sure this goes really smoothly for the rest of the team.
+Ryan Botindari: Right.
+Ryan Botindari: So that we can go over this.
+Ryan Botindari: So that no bad habits are created.
+Ryan Botindari: Everyone understands what they need to do.
+Ryan Botindari: Make that easy.
+David Hogg: Okay, I'm have Kyle make me some visuals.
+Ryan Botindari: Perfect.
+David Hogg: I think people get tired of my voice after a while.
+David Hogg: Mark, stop deleting your items.
+Ryan Botindari: Elham, this weekend, the actualizing your items.
+David Hogg: Yeah, don't delete.
+Mark Lohr: Where do you want them to go?
+Mark Lohr: Like if they're.
+David Hogg: Markham is trash and then they go to the bottom.
+Mark Lohr: Market is trash, does it not delete it?
+David Hogg: Well, if you mark it as trash, it won't delete it.
+David Hogg: Delete it.
+David Hogg: But it allows me to potentially train the AI model in the future to disclude certain things based on the history.
+Ryan Botindari: Trash is just the status we created.
+Ryan Botindari: It's not really trash.
+Ryan Botindari: When you put it in trash, you're not actually deleting it.
+Ryan Botindari: It's just a word we use for a group that makes sense.
+Ashlee Jack: Right?
+David Hogg: Just means junk.
+David Hogg: Whatever you want to call it.
+David Hogg: Okay.
+Mark Lohr: I Did a lot of that yesterday as far as cleaning up the actual.
+David Hogg: Items, but I know I was getting pinged.
+David Hogg: I was getting pain that you were deleting things constantly.
+David Hogg: And I was like, yeah, but he's locking in on a Sunday.
+David Hogg: I'll just talk to him about it tomorrow.
+David Hogg: But no, just don't.
+David Hogg: I mean, we'll go over it today, but we don't want anyone to delete anything unless it's truly.
+David Hogg: Like, you created a line item on accident.
+David Hogg: Now you're deleting the line item on accident.
+David Hogg: We just don't want people to even know where that button is.
+Ashlee Jack: Really.
+Mark Lohr: Like, I'm looking at it right now.
+Mark Lohr: All the statuses right there's done.
+Mark Lohr: Canceled Trash.
+Mark Lohr: Did I do something besides marking it as trash?
+Mark Lohr: How did that.
+David Hogg: You're saying you, like, you, like, clicked on it and deleted it?
+Ryan Botindari: Deleted it.
+Mark Lohr: I'm not sure how I did that.
+David Hogg: Okay, well, I can undo them.
+David Hogg: You did delete, like, 26 things.
+David Hogg: But.
+Mark Lohr: But where would I have done that?
+Mark Lohr: Because the only thing I ever did was go to the status section.
+Mark Lohr: And is there.
+Mark Lohr: So some.
+Mark Lohr: I mean, we may need to look into it if it's because I feel like I just.
+David Hogg: Did you do this?
+Mark Lohr: Oh, oh, oh, oh, oh, oh, oh.
+Mark Lohr: Yeah, Right.
+Ashlee Jack: Yeah.
+Mark Lohr: So I did some.
+Mark Lohr: Some.
+Mark Lohr: So if I go into them individually and go to the status, that's not an option.
+Mark Lohr: I guess I assumed that was the same thing as Trash, because I was doing some, like, batch, you know, Like, I would look at the title, I could tell it was, like, a duplicate or it wasn't relevant, so I would just hit trash, I guess.
+Mark Lohr: Or delete.
+David Hogg: Yeah.
+David Hogg: So in the future, you can batch them.
+David Hogg: Obviously.
+David Hogg: Don't do what I'm doing.
+David Hogg: This is just an example.
+David Hogg: And then you can click this.
+Mark Lohr: Okay.
+David Hogg: And hit trash there.
+David Hogg: This bottom bar is for, like, line item actions.
+David Hogg: So, like, this would be, like, if I wanted to move it to another group or to another board, I can duplicate all these.
+David Hogg: In the future when we're on Enterprise, you won't even be allowed to do that because I like to restrict it so that people just can't.
+David Hogg: You know, it's just easier to prevent the mistakes than trying to fix them later.
+David Hogg: Obviously, this is fine.
+David Hogg: You know, we're still starting out and there was a bunch of junk in there anyway, so I'm not.
+David Hogg: I'm not beating you up about it.
+David Hogg: Just.
+Ashlee Jack: Right.
+David Hogg: I was pinged.
+Mark Lohr: I was like, so you don't get pinged if I'm.
+Mark Lohr: If I'm changing the status I get pinged about everything.
+David Hogg: Okay, I will turn it off eventually.
+David Hogg: But it is nice to know for now, so.
+Mark Lohr: Sure.
+Mark Lohr: Okay.
+Mark Lohr: Good to know.
+David Hogg: And beating you up, I promise.
+Mark Lohr: Keep it going until morale improves.
+David Hogg: Well, all right, fellas, I'm gonna put some lidocaine on my arm and, yeah, then I'll call Kyle.
+David Hogg: But y' all need anything else for me?
+Ryan Botindari: Good brother.
+Ryan Botindari: I will see you in a few.
+Ryan Botindari: All right, boys.

@@ -1,0 +1,635 @@
+Title: Arvaya Consulting | Weekly Priorities Sync
+Date: 2026-01-12 14:00:00
+ID: 01KE7E51ENC52MJ2BP27E92B8T
+Participants: Ashlee Jack, Ryan Botindari, Rachael Lindblom, David Hogg, admin, Zaki Quereshy, Mark Lohr, Kyle Dalton, Todd Fernley
+
+Ashlee Jack: Good morning, everyone.
+Ryan Botindari: Good morning.
+Rachael Lindblom: Morning, Brian.
+Ashlee Jack: If you're talking or you're on mute.
+Ryan Botindari: I don't know why it auto mutes me now.
+Ryan Botindari: It used to be pretty good at.
+Ashlee Jack: Not doing that, but I think whenever you go to the first screen, it'll have, like, the option that, like a toggle button.
+Ashlee Jack: If you click click that, it will turn that function off.
+Ryan Botindari: Okay.
+Ryan Botindari: I must have clicked it somewhere along the line.
+Ashlee Jack: All right.
+Ashlee Jack: Pretty big team now.
+Ashlee Jack: Look at us.
+Ashlee Jack: Looking good.
+David Hogg: Boom.
+Ryan Botindari: And look at all those backgrounds.
+Ryan Botindari: Addie, I swear I'm gonna come to this computer.
+David Hogg: You're on mute.
+Ashlee Jack: Addie, you're on mute.
+Ryan Botindari: She's like, I can't.
+Ryan Botindari: I'm robbing a bank.
+admin: I said I had it.
+admin: I don't know what happened to it.
+admin: I'll find it later.
+Ashlee Jack: Mine does that too.
+Ashlee Jack: It'll like.
+Ashlee Jack: It will stop working.
+Ashlee Jack: It'll just like turn either black or just.
+Ashlee Jack: Yeah, just turn off.
+Ashlee Jack: And then I have to re upload it.
+Ashlee Jack: So it's kind of a pain.
+Ashlee Jack: But anyways.
+Ashlee Jack: Good morning, everyone.
+Ashlee Jack: Happy Monday.
+Ashlee Jack: Pretty exciting week this week.
+Ashlee Jack: We all get to actually see each other in real life.
+Ashlee Jack: So I hope everyone is excited and, you know, let's have some fun and get to know each other.
+Ashlee Jack: So I'll kick it off to Ryan.
+Ryan Botindari: Good morning.
+Ryan Botindari: Good morning.
+Zaki Quereshy: Good morning.
+Ryan Botindari: Morning.
+Ryan Botindari: You know, of course, the, the, you know, a lot of you guys know we have a potential new client which is really, really exciting.
+Ryan Botindari: Tomorrow we have a meeting with them to.
+Ryan Botindari: To go over the solution we've been working on.
+Ryan Botindari: So excited about that.
+Ryan Botindari: So as far as product deliverables go, I know that's a focus and I know we also have a few others that are.
+Ryan Botindari: That are in the works.
+Ryan Botindari: So rather than, I guess, can I continue the round robin move?
+Ryan Botindari: Yeah.
+Ashlee Jack: Just a quick note.
+Ashlee Jack: So as far as this week, yes, we are super excited that, you know, we are potentially signing on a new client.
+Ashlee Jack: So that means, you know, more.
+Ashlee Jack: More people to manage.
+Ashlee Jack: So I hope you're ready, Mark.
+Ashlee Jack: But we're really excited.
+Ashlee Jack: I think that this will be a good opportunity for us.
+Ashlee Jack: And then.
+Ashlee Jack: So, Addie, if you can, there's Phil Dambrosi.
+Ashlee Jack: He has.
+Ashlee Jack: He.
+Ashlee Jack: There's.
+Ashlee Jack: If you search my email, my inbox, that you'll find some emails from him.
+Ashlee Jack: We need to get his home address so we can send him a little gift.
+Ashlee Jack: So just as an FYI, he sent us over this referral, so I want to make sure that, you know, we send him something nice for doing that.
+Ashlee Jack: And then as far as, like, going forward so Ryan is going to be more of like that project op.
+Ashlee Jack: So he'll be looking over, you know, Mark, Kyle, David, Zachy, and then as far as like, anything internal.
+Ashlee Jack: So that means like, you know, anything finance, anything like operations, marketing, sales, I'll be kind of leaving that pavement or that way.
+Ashlee Jack: And so if y' all have any questions, of course, like, go to whoever is in that field.
+Ashlee Jack: So if you need, like, anything for the project delivery for our clients or even for ourselves, because you should look at our us as a client, you should go to Ryan first.
+Ashlee Jack: And then if you still need clarity, obviously come to me.
+Ashlee Jack: And then if it's anything like internal as far as, like the growth or just the standards of rbea, just come to me directly, just as an FYI.
+Ashlee Jack: So.
+Ryan Botindari: And also for that, like, Rachel, obviously, when you, like, deliver the website where it's like, okay, include me in on that.
+Ryan Botindari: Right, because it's kind of that both.
+Ryan Botindari: It's both.
+Ryan Botindari: Right.
+Ryan Botindari: It's both for internal as well as product delivery.
+David Hogg: So.
+Ryan Botindari: So cool.
+Ryan Botindari: It's cool.
+Ashlee Jack: Yeah.
+Ryan Botindari: I think, you know, obviously, you know, Mondays we want to make sure we, you know, get back into the swing of things.
+Ryan Botindari: Hopefully everybody had a great weekend and read to Rock.
+Ryan Botindari: I know after on Mondays, Sundays, I'm usually like, here we go.
+Ryan Botindari: But then Mondays, I'm ready to rock.
+Ryan Botindari: So I hope everyone has a similar feeling.
+Ryan Botindari: Get up and you're ready to go.
+Ryan Botindari: But I want to just kind of talk about what products we have going on.
+Ryan Botindari: And Mark, I'll actually pass it off to you.
+Ryan Botindari: So on these Monday morning meetings, Mark, I think the biggest thing is being able to just kind of talk about what products that we have going on.
+Ryan Botindari: We don't have to go in depth on these meetings, but really just kind of get an idea of what we're working on.
+Ryan Botindari: And I know, Zach, we have a meeting with you in an hour, so we'll go over those things.
+Ryan Botindari: But Mark, I'll pass it off to you just kind of overall, what products we have going on.
+Ryan Botindari: Just a very quick synopsis, I guess.
+Mark Lohr: Okay.
+Mark Lohr: Good morning.
+Mark Lohr: So, yeah, like Ryan just mentioned meeting with Zachy here after this call on the LLM implementation.
+Mark Lohr: Zachi, I reached out last week to Nancy to try to get some contacts.
+Mark Lohr: Haven't gotten back.
+Mark Lohr: Hadn't heard back from her yet.
+Mark Lohr: So I reached out again this morning.
+Mark Lohr: I did get a mention or maybe an out of office, but she was also sending emails this morning that she's out of office all week.
+Mark Lohr: So I don't know if I hope she's still available and working this week, but we'll determine that shortly.
+Mark Lohr: The AI ticketing solution.
+Mark Lohr: I wanted to kind of hit on that because we kind of uncovered that Automations email that we had questions about.
+Mark Lohr: Was it being monitored?
+Mark Lohr: Talked to David.
+Mark Lohr: Turns out that was not really supposed to be a client facing email so.
+Ashlee Jack: Well, let me go ahead actually.
+Ashlee Jack: Okay, let me tag into that really quickly.
+Ashlee Jack: Ryan.
+Ashlee Jack: This was one of the ones I was talking to you about and then I was like wait, what was it?
+Ashlee Jack: I can't remember.
+Ashlee Jack: It was a ticketing system.
+Ashlee Jack: So David, I believe I talked to you last week about setting up some sort of standard rate with for our clients to be able to put in that ticket system.
+Ashlee Jack: And then it automatically gets put to like a board where it's like maybe it's like called you know, based in the queue or something like that.
+Ashlee Jack: But it's like.
+Ashlee Jack: So we don't have a bunch of like task items but it has its own board where it's like a project overview and Monday.
+Ashlee Jack: So we need to set a standard.
+Ashlee Jack: So we need to work have like Kyle on that where like to write like the SOP of like how do we get that to them?
+Ashlee Jack: Right.
+Ashlee Jack: So like in what format, like what questions and how does it feed into the board?
+Ashlee Jack: So that'll be an automation that we need to figure out because right now they're emailing Automations or VEA consulting for requests for new tools but obviously no one's really monitoring that email and they haven't really rolled that out to anyone.
+Ashlee Jack: So we need to figure out what's the best way for their team to submit that and then for us to be able to manage it.
+Ashlee Jack: So does that make sense?
+Ashlee Jack: Mark?
+Mark Lohr: Yeah, David, do you want to briefly describe what we talked about?
+Mark Lohr: I mean there's a possible solution regarding the form.
+Ashlee Jack: Sure.
+David Hogg: The Monday.comforms aspect just.
+David Hogg: I just have a basic board structure in place now and then for each client, kind of just refining it for them so that each client would get their own form.
+David Hogg: So we know where it came from.
+David Hogg: We know where it would have come from without them having to specify where it come from.
+David Hogg: Came from to make.
+David Hogg: Sorry to make them feel like, you know, it's just for them because it is.
+David Hogg: But it's all going to the same place.
+Mark Lohr: And then we populate a Monday board.
+David Hogg: Yeah.
+David Hogg: And it's its own unique Monday board.
+David Hogg: And then whoever you want be pinged when it gets there.
+David Hogg: I can have that set up.
+David Hogg: We can have it set up to where you know, for ice it pings Ryan and me.
+David Hogg: And then for Spectre Tech, it pings Todd, for example, like, it can be set up, each unique, because they'd each be their own form, which wouldn't, you know, it's a minute or two per client to get them their own form.
+David Hogg: It's not like, you know, an hour.
+Kyle Dalton: Or anything like that.
+Ashlee Jack: Okay, so if you.
+Ashlee Jack: You, Mark and Zachy.
+Ashlee Jack: Sorry, you, Mark and Kyle work together to set what that standard looks like, and then again, it doesn't need to be done like this week, but like, if we can do it quick, let's just go ahead and get it out of the way.
+Ashlee Jack: But we will need like an SOP around it and a video Kyle explaining, like, what the standard is.
+Ashlee Jack: Like, how do they submit that, you know, information and then.
+Ashlee Jack: And then how do we manage it on our side?
+Ashlee Jack: So it should be one client facing and then one facing for us.
+Ashlee Jack: So how do they submit it and then how do we receive that in process?
+Ashlee Jack: So if y' all will work together on that and then.
+Ashlee Jack: So we have the CRM.
+Ashlee Jack: Where are we at with that?
+Mark Lohr: David, you want to take that one also?
+David Hogg: Which crn, Sorry.
+Ashlee Jack: For ice.
+David Hogg: For ice.
+David Hogg: They asked for a couple changes last week.
+David Hogg: We don't have to get into them if you don't want me to, but most of those were implemented over the weekend.
+David Hogg: One of those I need to implement today and then just waiting on the new data set for him or from Mitchell to roll out before their BD meeting on Friday.
+David Hogg: Or not roll out, but to push to the system on Friday and then roll out the next week.
+Ashlee Jack: Okay, so for as far as the seats, we've.
+Ashlee Jack: All the seats have been bought, right.
+Ashlee Jack: And then.
+Ashlee Jack: So, like, have we gotten all of their project managers on the platform?
+David Hogg: Not yet, no.
+David Hogg: Mitchell, Elham and Linda are putting together the list of people that they want on the system because Mitchell created one, but Elham wasn't 100% on it.
+David Hogg: So they're going back over it because they want at least two people per sector.
+David Hogg: So just for.
+David Hogg: Because some people are going to enter data.
+Ashlee Jack: We found out.
+Ashlee Jack: Or they.
+Ashlee Jack: They said that they were going back.
+David Hogg: To the list that was Thursday.
+Ashlee Jack: Okay, Mark, if you'll just follow up with them by like, maybe Wednesday this week to get that list.
+Ashlee Jack: And then when is like the rollout?
+Ashlee Jack: Do you know if it's going to be after or how long after we get that list that we can do the rollout?
+Ashlee Jack: And then second question to that is, have we created the marketing or.
+Ashlee Jack: Sorry, I keep saying marketing.
+Ashlee Jack: The training materials For Monday for ice.
+David Hogg: I would say roll out Monday, Tuesday of the following week from the BD meeting and I'll let Kyle cover the training materials.
+Kyle Dalton: Yeah, training material.
+Kyle Dalton: I got a good SOP drawn up.
+Kyle Dalton: Going over that with Ryan today at 1 actually.
+Kyle Dalton: And then I've got a handful of loom videos created and a couple mirror charts created for him.
+Kyle Dalton: So working towards getting a full completion set to send over to them.
+Ashlee Jack: Oh yeah, that's awesome.
+Ryan Botindari: So do that so really, really quick because it is cool, David.
+Ryan Botindari: We don't want to go like fully into it right now, but David and Kyle have been working on a pretty cool Monday.com training platform, if you will.
+Ashlee Jack: Oh, I saw a little bit and I'm excited.
+Ashlee Jack: I saw a little bit.
+Rachael Lindblom: Yeah, I did.
+Ashlee Jack: And I was like, this was awesome.
+Ashlee Jack: That's exactly what I wanted.
+Ashlee Jack: So I'm really happy with that.
+Ashlee Jack: So let's just keep going.
+Ashlee Jack: Yeah, awesome.
+Ashlee Jack: Let's move on to the next one really quickly and then we'll.
+Ashlee Jack: I'll get into like internal things.
+Ashlee Jack: So we have the CRM.
+Ashlee Jack: Erp.
+Ashlee Jack: Where are we at with that?
+Ashlee Jack: We had a workday.
+Ashlee Jack: We had a work day.
+Mark Lohr: It wasn't a demo, actually.
+Mark Lohr: Yeah, it was a.
+Mark Lohr: More of a discussion.
+Mark Lohr: They wanted to gather requirements from the client before they demo it.
+Mark Lohr: So it went well, I think.
+Mark Lohr: I mean, my initial, my research before the call, it was looking like Monday ERP wasn't really geared towards AEC clients, but they do have a solid list of engineering firms that they've already signed on and it looks like it could kind of tie in.
+Mark Lohr: I don't know if Ilham's willing to use it alongside Gosh, Vantage Point, but some clients do that.
+Mark Lohr: It's more towards HR and finance, not really project management.
+Mark Lohr: It would have to be some other plugins.
+Ashlee Jack: So workday is more for.
+Ashlee Jack: What was it?
+Mark Lohr: HR and finance.
+Mark Lohr: Would that.
+Mark Lohr: Would you agree, Ryan, based on the discussion?
+Ryan Botindari: No, for sure.
+Ryan Botindari: And that's why he was kind of saying like less Blankenship would be someone he wants to have on the next call for the demo be more his team.
+Ashlee Jack: Okay.
+Ashlee Jack: And then.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: And then there is also the AI powered LLM Zachy.
+Ashlee Jack: Where are we at with that?
+Zaki Quereshy: Yeah, I planned the whole thing out this weekend when I got back from New York.
+Zaki Quereshy: And so that's what we're gonna be talking about in the meeting.
+Zaki Quereshy: The approach we're going to take is based off some research papers I read on how to orchestrate multiple AI agents for multiple things.
+Zaki Quereshy: But give it one parent agent.
+Zaki Quereshy: I'm not gonna go into much more detail until the call with Ryan and Mark later, but I have created a whole architecture for how we're going to do it, you know, as aggregate.
+Zaki Quereshy: But we're going to have some, some steps as we kind of ease them into integrating like their whole shit to one place pretty much.
+Zaki Quereshy: So that's good there.
+Zaki Quereshy: There'll be plenty of more updates from Mark and Ryan for you after we meet.
+Zaki Quereshy: I imagine they're probably going to consolidate all my technical stuff and give you a nice report with a bow on it type thing.
+Zaki Quereshy: So that's about it.
+Ashlee Jack: And then as far as like the.
+Ashlee Jack: Billy, did you finish or did you like, what was the.
+Ashlee Jack: Okay, so you were gonna get with Iana Lua regarding the automation to where it needed to go to in quickbook time.
+Ashlee Jack: Quickbooks time.
+Zaki Quereshy: Yeah.
+Zaki Quereshy: So I'll make a loom video for that this week.
+Zaki Quereshy: Just a guide where to get everyone's EODs.
+Zaki Quereshy: Because then all she'll have to do is just kind of make sure that we're building the right things out of it because it's worked so far for everybody.
+Zaki Quereshy: Thank you everyone for using it.
+Zaki Quereshy: It seems that I've not failed actually since we really started taking up with it, so I'm really happy with it.
+Zaki Quereshy: But yeah, so I'll make a loom video for where to go to get everyone's reports because yeah, it'll have them all formatted so there's no manual documents to scrub through anymore.
+Zaki Quereshy: It's all just there.
+Zaki Quereshy: So I'll give you a loom video to use that.
+Zaki Quereshy: Yana Lua, I'll make your process much easier.
+Ashlee Jack: Okay, awesome.
+Ashlee Jack: And then if you'll copy me in on that email just so I can take a look at it too whenever that goes out.
+Zaki Quereshy: For sure, for sure.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: Thank you.
+Ashlee Jack: And then.
+Ashlee Jack: All right.
+Ashlee Jack: Oh, and then so the AI powered ll Earth.
+Ashlee Jack: Sorry, the AI note taker.
+Ashlee Jack: So I think that like we're going to go forward with the Fireflies for ice.
+Ashlee Jack: Correct.
+Ashlee Jack: Because we've already done our research and that seems like the best tool.
+Ashlee Jack: And then it also has like the API capabilities.
+Ashlee Jack: Right.
+Ashlee Jack: With the Monday board.
+Ashlee Jack: David.
+Rachael Lindblom: Great.
+Mark Lohr: Les was also, was it, I think less Blankenship on that call and he was a little concerned about the use, how they're going to use it, legal aspects of it.
+Ashlee Jack: Well so as far as that goes, Kyle, if you will create a, put it on your list to create a sop around about like how to use the AI note taker safely like and then also with like the Things before the pipe, whatever.
+Ashlee Jack: Like that filter has to be as far as like I mean for them I guess it would be still PC if it's private conversation.
+Ashlee Jack: If you do it David, if you could do PC or something like that, like does that mean that you can get it where Fireflies does not at all go in there or is that only because of the Monday automation?
+David Hogg: For us that's only for the Monday automation.
+David Hogg: I can see if through because they'd be on enterprise.
+David Hogg: I can check if the webhook will enable me to kick it immediately based on the meeting name.
+David Hogg: We just don't have that functionality because we don't have the universal webhook.
+Ashlee Jack: Okay.
+Ashlee Jack: So we'll, we will need to put in guardrails when we do, when we implement it.
+Ashlee Jack: Mark, if you will reach out to Fireflies, see what their partnership program is like and see if we can become a preferred vendor and then additionally with that see how many or get with Nancy, figure out how many seats they'll need as far as like probably their project managers.
+Ashlee Jack: Like anyone in back of house, like anyone that has like meetings, virtual meetings that they want that note taker so we can determine what that cost would be like before we do too much in the automations side.
+Ashlee Jack: And then.
+Ryan Botindari: Real quick with that too before I forget it, David, I wonder when you're in, when we're in these meetings you can like say hey Fireflies, blah blah blah blah.
+Ryan Botindari: If you have an action item that you want to make sure gets done, I'm wondering look into the ability for them to do that where they could say hey Fireflies end transcription.
+Ryan Botindari: Don't send whatever, whatever that wording is which will kick it.
+Ryan Botindari: There should be a way to do that because what he was worried about is like if they're in a meeting and they say something, you know, private, want to go anywhere they want to.
+Ashlee Jack: How can I help stop it?
+Ashlee Jack: That.
+Ryan Botindari: Fire is here and that they're ready to do some work.
+Ryan Botindari: So I guess there's obviously something you can do, you know exhibit A.
+Ryan Botindari: So look into that.
+Ashlee Jack: And then last but not least that I have here is AI prompt training.
+Ashlee Jack: So I would like to get a AI prompt training.
+Ashlee Jack: Oh there's actually one more after this.
+Ashlee Jack: I've got the marketing solution.
+Ashlee Jack: Okay.
+Ashlee Jack: But I'd like to get a training on the books Mark, if you can get one, if you can collaborate with Nancy to figure out when we can do that lunch and learn.
+Ashlee Jack: And so I would like everyone to be able to be on that call as well from our team just Because I think that we can all like give a little bit of our feedback as far as like best practices for AI and AI prompting and that will be for our team and then also for, for ISIS team.
+Ashlee Jack: And I'm thinking like three weeks out but maybe we do it sooner than that for like specific groups.
+Ashlee Jack: So for like the.
+Ashlee Jack: What is the one like for the one for marketing for Open Asset they have AI so like we want to make sure that we teach them how to use it.
+Ashlee Jack: So where.
+Ashlee Jack: A lot of them I don't think have ever touched ChatGPT.
+Ashlee Jack: So we need to do that.
+Ashlee Jack: So that needs to be part of it.
+Ashlee Jack: So Kyle and Mark, if y' all will find.
+Mark Lohr: I think an hour, an hour lunch and learn.
+Ashlee Jack: I think 30 minutes would be fine, honestly.
+Ashlee Jack: What, what do you think, Ryan?
+Ryan Botindari: I'd probably.
+Ryan Botindari: For the first one it could probably be 30 but.
+Ryan Botindari: But for them to really, really.
+Ryan Botindari: Because I think the first one is really going to be more of an intro anyway.
+Ryan Botindari: I think, I mean to a degree like 101.
+Ryan Botindari: I think as we go we could probably do a longer one next time.
+Ryan Botindari: So I think 30 minutes will be fine for the first and then maybe do another one for an hour.
+Ashlee Jack: We can always, we could always do one internal actually and that way not all of us have to be on the ice cold but.
+Ashlee Jack: But we could do one in person and just see how long it takes.
+Ashlee Jack: But they might actually have.
+Ashlee Jack: Now that I'm thinking about, they might probably have a lot of questions.
+Ashlee Jack: So maybe an hour.
+Ashlee Jack: Yeah, you know.
+Mark Lohr: Yeah, depends on how many people are on the call too.
+Mark Lohr: And I think they mentioned they just had a training coordinator hired somebody on there.
+Ashlee Jack: Yeah, but that's more of like their training coordinator isn't going to be for.
+Mark Lohr: Like any more for like HR thing.
+Ashlee Jack: Yeah, it's more of like when they hire a new manager they're going to be training them or if they hire a new like engineer, they're training out them on their systems, not our system.
+Mark Lohr: We don't need to coordinate with them.
+Ashlee Jack: We could coordinate with them but like I would say it's not like I don't think that person is going to be it, but we do need like SOPs about best practices, how to use AI, what you should not put into AI prompting, like how you can structure your AI prompts to get the best, best output and then like how to read it, etc, so we can do that.
+Ashlee Jack: So like if you and Kyle will work together and then last but not least that will be leading us into I think the marketing Solution opening open asset.
+Ashlee Jack: And where are we at with that?
+Mark Lohr: So we do have a kickoff call on Thursday that we've been leading up to.
+Mark Lohr: We got Linda Ryan and I talked to Linda last week, got her set up.
+Mark Lohr: I reached out to Nate last week on Friday to try to get an idea on implementation and hopefully we'll hear back from them today.
+Ashlee Jack: I have his personal phone number.
+Ashlee Jack: I can send it to you and you can just give him a call.
+Ashlee Jack: I will.
+Ashlee Jack: Rogue call anyone.
+Ashlee Jack: So as far as that goes, for open asset, when you say rollout.
+Ashlee Jack: So you're doing the implementation plan just with the leaders, you're not doing it with the rest of the team.
+Ashlee Jack: Right.
+Ryan Botindari: Sorry, I was just going to say I know.
+Ryan Botindari: Nicole.
+Ryan Botindari: Right, Nicole.
+Ryan Botindari: We haven't even really met much of Nicole, but Nicole's on Linda's team.
+Ryan Botindari: I hope I'm using the name right.
+Ryan Botindari: But we're.
+Ryan Botindari: We had the onboarding call on Thursday that will actually start with Linda and just one of her teammates.
+Ryan Botindari: So eventually I'm assuming she'll add everybody.
+Ryan Botindari: But right now it's just kind of the intro onboarding call.
+Ashlee Jack: Got it.
+Ashlee Jack: Okay.
+Ashlee Jack: And so we probably want to do that AI like prompt training before we get everyone on boarded just so they at least like know how to use it.
+Ashlee Jack: Right.
+Ashlee Jack: So let's try to like, maybe see if we can do it maybe the same day as kickoff or like maybe the day before or something.
+Ashlee Jack: David, did you have a question?
+Ashlee Jack: Sorry, I just saw.
+David Hogg: That's okay.
+David Hogg: You mentioned the Fireflies automation to Monday.
+David Hogg: I just wanted some clarity on that for ICES concerned just because we're only bringing 50 of them on.
+David Hogg: So if all of them are going to be using Fireflies for notes, that's not something that I would want to push to Monday because then it's going to create 900 users worth of notes for 50 people or 900 users worth of actionable items for 50 people.
+Ryan Botindari: Yeah, I don't think they're going to have that many people on it.
+Ryan Botindari: I think they're going to start at more of a management scenario and then it'll, you know, go from there.
+Ryan Botindari: But I think we'll be okay on that.
+David Hogg: So is it still.
+David Hogg: Is it still something you want to roll out the Monday side of my automations first, or do you want to start with just the box side of my automations for the notes?
+Ashlee Jack: So like it just automatically goes into.
+Ryan Botindari: Box, maybe just box, yeah.
+Ryan Botindari: Creates like the trans.
+Ryan Botindari: Well, puts the transcript in there.
+Ryan Botindari: Maybe just the box side.
+Ryan Botindari: And then Monday we'll.
+Ryan Botindari: We'll Add to it as it goes.
+David Hogg: I could ask.
+David Hogg: I could have it create another file too if you want, of just the actionable items from that list.
+David Hogg: I know I currently have the AI summary and the transcript, but I could in addition to that create the actionable items like the segment by itself if you wanted.
+David Hogg: Just so they could get an idea as to what it would push to Monday without it actually pushing to Monday.
+Ryan Botindari: Yeah, and the other thing too is I know Less Bright uses Asana.
+Ryan Botindari: I don't know how many.
+Ryan Botindari: I know Nancy does too, but I don't know how many of the individuals use that.
+Ryan Botindari: But I'd like to migrate them from Asana to Monday anyway because it's the same freaking thing.
+Ryan Botindari: So we can talk to Less Bright about that.
+Ryan Botindari: So as far as actual items go.
+Ryan Botindari: Yeah, don't start the Monday automation, just work on the box.
+Ryan Botindari: If you want to add the actionable items, I think that's good.
+Ryan Botindari: I think it'd be a good idea.
+Ryan Botindari: And then we can eventually migrate them over to action items on Monday.
+Ashlee Jack: And then during that time also like Mark, like let's pause a little bit on the automations until we get all like go ahead on Fireflies.
+Ashlee Jack: So Mark, that's where you'll come in as far as like getting the amount of people that actually want it.
+Ashlee Jack: What do they want to do with the action items or anything.
+Ashlee Jack: Like you can go through those with them and then see how much it's going to cost for and try to negotiate either the price or.
+Ashlee Jack: Yeah, like a partnership.
+Ashlee Jack: So see how that works and then.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: And then as far as.
+Ashlee Jack: Oh Rachel, as far as the website, I know that you're working on like all the BIOS and everything last week and organizing a lot of like the Orchard and stuff like that, but you want to tell us where you're at with that?
+Rachael Lindblom: Yeah, the BIOS are all done and then just waiting if you have time this week to review those.
+Rachael Lindblom: And then the website, I have most of the main pages completed and then it's basically just going in and adding like all the individual ones.
+Rachael Lindblom: So services, team members, everything like that.
+Rachael Lindblom: And then the final step will be going in and adding in SEO and all that.
+Rachael Lindblom: But yeah, the main thing I think for this week is just continuing the website and then reviewing the bios.
+Rachael Lindblom: If you are have time to do that.
+Ashlee Jack: Yeah, let's do that tomorrow.
+Ashlee Jack: If you can put some time on my schedule for about 15 minutes that would be great.
+Ashlee Jack: And then Todd, I know that I was one.
+Ashlee Jack: You're working on like box organization and then the go to market approach for like private sector.
+Ashlee Jack: Do you want to give us an update on that?
+Ashlee Jack: Oh, you're on mute.
+Todd Fernley: My apologies.
+Todd Fernley: Box.com, yes, I've created a mock up of what the new look will be a meeting.
+Todd Fernley: I've already met with Rachel, I'm meeting with Ashley and Ryan directly after this meeting to go over that mock up kind of look at the overall structure.
+Todd Fernley: Once we feel we're in a good place and changes are going to be ready to be made, I'll communicate out to all you specific date and time that will be shut down.
+Todd Fernley: I'll be doing that and then I'll have a kind of a cheat sheet guide.
+Todd Fernley: They'll be sitting at the parent level once those have been implemented and I'll be fielding questions ongoing.
+Todd Fernley: So that's where we are in box.
+Todd Fernley: But I'll be constantly communicating with you all as we move forward as we understand that's where all the important documentation is with the go to market strategy.
+Todd Fernley: So yes, we're looking to have a kind of a structured approach to looking at all new business development.
+Todd Fernley: Ashley has provided me with a kind of a standard framework for the overall approach.
+Todd Fernley: I have been gathering information from box and online and building a template draft of kind of the overall process moving forward.
+Todd Fernley: That will be an ongoing evolving document as before but we'll keep you all updated.
+Ashlee Jack: Awesome.
+Ashlee Jack: And then as far as like the box organization, definitely need to make sure that like Zachie and David are aware of any of those changes just because if there is any automations that it might mess up we need to be aware of before we move anything.
+Ashlee Jack: Okay.
+Ashlee Jack: And then anything else from anyone.
+Ashlee Jack: Oh, Addie, make sure that we call the IRS today, try to get them on the phone to confirm whether or not they got our name change and then if it can either email, fax or overnight it.
+Ashlee Jack: Yes, the confirmation.
+Ashlee Jack: So we can then resubmit that to sam.gov so we get on there.
+Ashlee Jack: Okay.
+admin: I tried Friday too but I couldn't.
+Ashlee Jack: Get get with them.
+admin: But I'll keep trying today.
+Ashlee Jack: Okay, thank you.
+Ashlee Jack: All right.
+Ashlee Jack: And then so yeah, so we have a really fun week this week.
+Ashlee Jack: We're going to kick ass and crush work and then on we're going to have some drinks, we're going to have some good food, we're going to have some laughs and then I'm going to try to organize.
+Ashlee Jack: Well, I'm organizing right now.
+Ashlee Jack: I did find us an office that I really like and so I want everyone well, you know, David, Ryan and Kyle, while y' all are in town, I'd like for y' all to come.
+Ashlee Jack: Well, everyone.
+Ashlee Jack: But since y' all are in town to go look at it and check it out.
+Ashlee Jack: And there's a lot of opportunity for us to grow in this building.
+Ashlee Jack: I like that it's very central, so it's going to be right by the Navy yard near Park Circle.
+Ashlee Jack: So it's like, two minutes away from Park Circle, so that'll be cool.
+Ashlee Jack: You know, we can all go out and grab drinks after work on a Friday or something like that.
+Ashlee Jack: Coffee shops nearby.
+Ashlee Jack: There will be parking lot.
+Ashlee Jack: A lot of room to grow, for sure.
+Ashlee Jack: And there's a lot of sunlight, which will be nice.
+Ashlee Jack: And just a.
+admin: Government contractors are nearby.
+Ashlee Jack: Exactly.
+Ashlee Jack: So a lot of open space for, like, creativity as far as, like, how we want to structure the office where it makes sense for everyone.
+Ashlee Jack: So I'm excited for everyone to come check it out and then.
+Ashlee Jack: Yeah, that's all I have.
+Todd Fernley: Awesome.
+Ryan Botindari: One other thing, too.
+Ryan Botindari: I put on the calendar for 4pm today, Monday cleanup.
+Ryan Botindari: So between now and then, go into Monday, go into the high level, down to the actual items.
+Ryan Botindari: Please, please, please start getting those done and completing them and noting that in Monday, we really got to make sure we're using Monday.
+Ryan Botindari: For example, in the project Overview, there are 35 projects, and they're.
+Ryan Botindari: We're not.
+Ryan Botindari: We don't have 35 projects.
+Ryan Botindari: So that means there's a.
+Ryan Botindari: There's a naming issue.
+Ryan Botindari: So if it's assigned to you or if it should be assigned to you, assign it and then make sure you name it appropriately.
+Ryan Botindari: But also action items.
+Ryan Botindari: We got in prep 162 items for the team.
+Ryan Botindari: So we got to start moving those to either the plate or.
+Ryan Botindari: Or just completing them if they were quick actions.
+Ryan Botindari: So please make sure to do that, everybody, and let's clean that up.
+Ashlee Jack: Great.
+Ashlee Jack: Thank you for adding that on there.
+Ashlee Jack: Maybe we shouldn't have that, like, every week, but just like, calendar.
+Ashlee Jack: Yeah, yeah.
+Mark Lohr: Or if everybody could just put on their calendar just to block off time for their own personal.
+Mark Lohr: Just a reminder a certain time each week that's kind of helps my.
+Mark Lohr: My process.
+Ashlee Jack: And also if y' all can put down, like, a little block just to make sure you do your EODs.
+Ashlee Jack: And.
+Mark Lohr: Yeah, I was gonna ask Ashley, is that.
+Mark Lohr: Are you getting EODs like you want them?
+Mark Lohr: Is there a format change you would like on that or.
+Ashlee Jack: I would say that I really like the way that David and Kyle.
+Ashlee Jack: So I know that David taught Kyle how to do it, but because same exact format.
+Ashlee Jack: So if you want to ask one of them to forward it to you in their style.
+Ashlee Jack: But we should be using Billy.
+Ashlee Jack: But I just want to check a couple more things on Billy just to Zacki, just to make sure, because I.
+Ashlee Jack: That's like the backbone of our business, and I can't just, like, let it go until it's, like, completely flushed out and the whole team is on it.
+Ashlee Jack: So I will look into that sometime today.
+Ashlee Jack: But yeah.
+Ashlee Jack: So until that's, like, completely rolled out, please just send it out to me.
+Ashlee Jack: An email is fine.
+Mark Lohr: David, could you forward your template to everyone after this?
+Ashlee Jack: Yeah.
+Ashlee Jack: And then what do you have?
+Ashlee Jack: David?
+David Hogg: Don't delete anything in Monday.
+David Hogg: So I added a trash column or not a trash column, a status that says trash.
+David Hogg: There's one on each board.
+David Hogg: Never delete anything in Monday.
+David Hogg: So they're on the actionable items.
+David Hogg: There's trash and duplicate.
+David Hogg: Both those are fine on the project overview and the high level project or the high level solution board, both those have a trash functionality for things that just need to be moved out.
+David Hogg: And then we just don't want people deleting things, you know, so.
+Ashlee Jack: All right, awesome.
+David Hogg: And I'll forward that out to everyone.
+David Hogg: Mark.
+Ashlee Jack: Okay.
+Ashlee Jack: Any other questions?
+Mark Lohr: I did have a question on Zistimo.
+Ashlee Jack: Sorry, forgot about that one.
+Mark Lohr: I know we found.
+Ryan Botindari: We.
+Mark Lohr: We uncovered their rate with their pain, which is more palatable than what we thought.
+Mark Lohr: But, David, I think you mentioned we got some successful API connections last week, but there's not been a chat with ICE lately on that.
+David Hogg: No, there hasn't.
+David Hogg: What is the cost with that?
+Ashlee Jack: Like 4800.
+Mark Lohr: 6800 for this year.
+Mark Lohr: For 460 users?
+Mark Lohr: Yeah.
+David Hogg: For a year.
+Ashlee Jack: Oh, yeah.
+Mark Lohr: Yeah.
+Ryan Botindari: Well, I was hungry.
+Mark Lohr: I may not even want to get rid of it.
+Ryan Botindari: I was lied to.
+Mark Lohr: That's what she.
+Mark Lohr: Yeah.
+Mark Lohr: Nancy said Temple sent that to her.
+David Hogg: Someone.
+David Hogg: Someone told me it was $36,000 a month.
+Ryan Botindari: Hold on, hold on.
+Ryan Botindari: I said.
+Ryan Botindari: I said, if there's 700 users.
+Ryan Botindari: And I just went online.
+Ryan Botindari: I was like, it's that much per user.
+Ryan Botindari: I was like, look, this is just a get.
+Ryan Botindari: This is just going off the numbers.
+Ryan Botindari: I don't.
+Ryan Botindari: I can't imagine you're spending that much, but to get 6,000 a year for 700 drivers, how did they.
+Mark Lohr: It's for 461 users.
+David Hogg: From half a million a year to 6,000 a year, literally, Right?
+Ashlee Jack: He's like, I'm so confused how the.
+Ryan Botindari: Hell they do that.
+Ryan Botindari: Like, why is the rate what it is?
+Ryan Botindari: But then they don't have that.
+Ryan Botindari: That's crazy.
+Ashlee Jack: All right, well, so I guess we probably, unless there's another solution out there, don't really need to move away from.
+Zaki Quereshy: System.
+Mark Lohr: Improve the implementation.
+Mark Lohr: I don't know.
+David Hogg: I could switch gears on that then, because obviously my un, under the impression that it was half a million a year, was more geared towards switching them to something else or building something for them.
+David Hogg: So.
+Ashlee Jack: Okay, so let's make sure we put that email into Monday and then also notate that just so if we do have any questions down the road of how much it's costing, we should have that easily accessible to find anything else.
+Ashlee Jack: Mark, that's it.
+Ashlee Jack: All right, well, I will keep you all updated as far as, like, when the showing of the hopefully new office will be and then any other changes and then anyone else.
+Ashlee Jack: Anything else.
+Rachael Lindblom: Ryan.
+admin: Did you get the plot in the mail?
+Zaki Quereshy: All right.
+admin: Yeah, because we're trying, Me, Ashley and Rachel, we're trying to work on it.
+admin: If you could, you know, if you have some time to look at it, because maybe that's not what you y' all kind of looking for.
+admin: We may need to send it back and get something else.
+Ryan Botindari: So.
+Ryan Botindari: What?
+Ryan Botindari: Just really quickly.
+Ryan Botindari: I got you.
+Ryan Botindari: What.
+Ryan Botindari: What was the problem.
+admin: Rachel, what you think?
+admin: I mean, I don't know if it's really a problem, but I'm not sure if it's going to do exactly, you know, like, I'm sure it will record the conversations and stuff, but I mean, you know how y' all wanted it to be.
+admin: It'll just create a PDF and Rachel, can you kind of elaborate on that?
+admin: I mean, y'.
+Zaki Quereshy: All.
+admin: Y' all want a specific, like, you know, action items and things of that nature.
+admin: I'm not sure it'll get that specific.
+Rachael Lindblom: Yeah, so it.
+Rachael Lindblom: We like, tested it and it recorded it and then had a summary of like, the tone and overview of the conversation.
+Rachael Lindblom: And then it had action items similar to Fireflies, it seems like, but it didn't.
+Rachael Lindblom: It.
+Rachael Lindblom: Yeah, it created like a PDF or a HTML like version of it.
+Rachael Lindblom: So then I think the issue would just be getting that PDF into Monday or into like something else rather than just something that you can email or a PDF.
+Rachael Lindblom: So I guess that transfer is what was missing.
+Rachael Lindblom: It looked like.
+Ryan Botindari: Did it determine who, like multiple speakers and did it organize that at all?
+David Hogg: Well.
+Ryan Botindari: Or do we not.
+Rachael Lindblom: Yeah, there was like a recording of the call, a transcript of the call, or not call, but conversation and then summary.
+Rachael Lindblom: So I don't know if it had.
+Rachael Lindblom: I'm not remembering if it had like individual names, but it did have the call script.
+Ryan Botindari: Okay.
+Ryan Botindari: And I look into it, we'll talk offline.
+Ryan Botindari: But the biggest thing for me is we can build all the backend for action items.
+Ryan Botindari: That's not a problem.
+Ryan Botindari: It's really just.
+Ryan Botindari: Can it record multiple people?
+Ryan Botindari: Well, right.
+Ryan Botindari: Because if you got someone, you know, across the table, can it capture that and does it do it?
+Ryan Botindari: Well, that's what the most important thing is.
+Ryan Botindari: So as you guys, if you guys can still test it again when you guys are together, just like someone sit on the other side of the table, maybe play a little light music or something to try to test it.
+Ryan Botindari: That's the most important piece.
+Ryan Botindari: But we can handle the back end.
+admin: Okay.
+admin: And Rachel and I can do that tomorrow if she's, you know, I think she might be stopping by tomorrow and we can do that.
+admin: But also we can look into.
+admin: Kind of a funny thing is that Ashley doesn't know is that I told Rachel, oh, it's charged.
+admin: Just charged up and charging it.
+admin: And she was like, this thing's dead.
+admin: Well, it was dead because I had left it on.
+admin: So it recorded Ashley in the house, like the whole time.
+admin: The whole time.
+Rachael Lindblom: Three, like five hour recordings on there.
+Rachael Lindblom: Because it was.
+admin: So I told Rachel, I was like, yeah, we might want to like, like not listen to that.
+admin: I'm not sure.
+admin: So, yeah.
+Ryan Botindari: But yeah, speakers.
+Ryan Botindari: Ashley, why are there six people speaking?
+Ryan Botindari: That's so weird.
+Ryan Botindari: On the transcript?
+Ryan Botindari: All right.
+admin: Like you suggested.
+Ryan Botindari: Cool.
+Ryan Botindari: Appreciate it.
+Ryan Botindari: All right, guys, let's kick this week's But.
+Mark Lohr: All right, party.
+Ryan Botindari: See you guys.
+Zaki Quereshy: Bye.
+Zaki Quereshy: Bye.

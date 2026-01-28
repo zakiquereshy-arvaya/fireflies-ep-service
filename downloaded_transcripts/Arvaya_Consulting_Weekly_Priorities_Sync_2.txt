@@ -1,0 +1,479 @@
+Title: Arvaya Consulting | Weekly Priorities Sync
+Date: 2026-01-20 14:00:00
+ID: 01KESCCVQKR59KFWRQ387JH8SF
+Participants: David Hogg, Ashlee Jack, Ryan Botindari, Zaki Quereshy, Kyle Dalton, Mark Lohr, Rachael Lindblom, Todd Fernley
+
+David Hogg: Backwards.
+David Hogg: Because there's something wrong with the bead, too.
+Ashlee Jack: So.
+Ryan Botindari: Bead Racer.
+David Hogg: It was a nail.
+David Hogg: Fun fact.
+Ryan Botindari: Ah, you nailed it, Zacky.
+Ryan Botindari: Always looks so warm on these calls, dude.
+Zaki Quereshy: Because the house is here.
+Zaki Quereshy: Got no insulation, brother.
+Zaki Quereshy: So what am I supposed to do?
+Zaki Quereshy: Auxiliary and just freeze?
+Zaki Quereshy: Like, dude, my hands get freezing here.
+Zaki Quereshy: Yeah.
+Zaki Quereshy: Got little insulation.
+Ryan Botindari: Nothing wrong.
+Ryan Botindari: Nothing wrong with it, dude, I gotta.
+Zaki Quereshy: Rock my old final collection from where I was from.
+Zaki Quereshy: You know, I had a whole bunch back in the day, and so now I get it.
+Zaki Quereshy: Rock them again when it's winter for the one month there.
+Ryan Botindari: Yeah, right.
+Ashlee Jack: All right.
+Ashlee Jack: Are we waiting on anyone else?
+Ashlee Jack: Just.
+Ashlee Jack: All right, we can get to it.
+Ashlee Jack: Good morning, everyone.
+Ashlee Jack: Hope everyone had a very long, refreshing weekend.
+Ashlee Jack: Any fun things that happened to anyone.
+Kyle Dalton: Got to hang out with the team.
+Kyle Dalton: That was fun.
+Ryan Botindari: That was fun.
+David Hogg: That was a lot of fun.
+Ryan Botindari: Yeah, we got to check out the ICE headquarters.
+Ryan Botindari: That was a lot of fun.
+Ryan Botindari: That was cool.
+Ashlee Jack: What is David doing?
+Ashlee Jack: Is he doing, like.
+Ashlee Jack: Like, is he just running around the room or something?
+Mark Lohr: I thought he's about to crawl in bed.
+David Hogg: I'm listening.
+David Hogg: I promise.
+David Hogg: I'm packing some of my belongings and making the bed and, you know, living.
+Zaki Quereshy: In this space, you're going back and forth.
+Ashlee Jack: Yeah, I just see him go back and forth.
+Ashlee Jack: Like, are you facing.
+Ashlee Jack: Is everything good.
+Mark Lohr: From the other side?
+Ryan Botindari: But, yeah, he normally doesn't have his freaking camera on, and now he does.
+Zaki Quereshy: What?
+Mark Lohr: He doesn't need it.
+Ashlee Jack: David, I might.
+Ashlee Jack: I might have somewhere, too, that you could check out that might be a good fit for where you're looking for, specifically regarding your apartment.
+Zaki Quereshy: So, yeah, send it over.
+Ashlee Jack: I'll connect with you after this call, right?
+David Hogg: Yeah, after this call.
+David Hogg: Just so you guys know, Ryan and I have a meeting, and then I will be, like, checking in on spots.
+Mark Lohr: Before I go home.
+Mark Lohr: So.
+David Hogg: Yeah.
+Mark Lohr: Excited?
+Ashlee Jack: Yeah.
+Ashlee Jack: So, okay, so let's jump in really quickly.
+Ashlee Jack: I know that that was a long little break.
+Ashlee Jack: So getting back into it, it's going to be.
+Ashlee Jack: Everyone's probably thinking, like, what do I even do at this point anymore?
+Ashlee Jack: I know that's how I'm feeling a little bit after a couple days off, but.
+Ashlee Jack: So I'm just going to run through, like, the project list.
+Ashlee Jack: I know that.
+Ashlee Jack: Ryan, I want you to kind of chime in as far as, like.
+Ashlee Jack: Because I know there's going to be a little bit of reorganization between, like, Zachie and David, and then.
+Ashlee Jack: Yeah.
+Ashlee Jack: Appreciate it.
+Ashlee Jack: Okay.
+Ashlee Jack: All right, so we have the new assignment, which is going to be the project assignment task from ICE and Then there's the CRM.
+Ashlee Jack: Who's working on the CRM specifically?
+Ryan Botindari: You mean from our team?
+Zaki Quereshy: David.
+Ashlee Jack: Just David.
+Kyle Dalton: Okay.
+Ryan Botindari: Yeah, yeah, yeah.
+Ashlee Jack: Okay.
+Ashlee Jack: And then as far as, like, the AI note taker, Zachy, you're gonna fix, like, kind of the AI part where the logic is a little bit better.
+Zaki Quereshy: Yeah, yeah, yeah.
+Zaki Quereshy: So I've taken it into my head to call them slop items, and I can just get rid of those because there's a lot of them that David talked about this morning.
+Zaki Quereshy: There's some that have no project names or, like.
+Zaki Quereshy: Or, like, people assigned to them, so it's pretty easy to drop those.
+Zaki Quereshy: David can do that on his end, and then I'll make him his own little AI classifier endpoint so we can see what we can keep or not.
+Zaki Quereshy: So I've done this before in the past when I used to make apps for, like, news articles and stuff and, like, give sentiment scores to them.
+Zaki Quereshy: So I think I can do very.
+Zaki Quereshy: Something very similar for David today.
+Zaki Quereshy: At least.
+Zaki Quereshy: Or at least as soon as he can get it over to me, I can help him out.
+Ashlee Jack: Okay.
+Ashlee Jack: Okay, so I will.
+Ashlee Jack: So y' all are both working, I guess, like, on the CRM for like us, and then additionally for their project task.
+Ashlee Jack: Assignment.
+Ashlee Jack: So, like, the project task.
+Ashlee Jack: I imagine that's gonna still live in Monday, right?
+Ashlee Jack: David, have we talked to Mitchell about that?
+David Hogg: The project, like, that thing I showed you on.
+David Hogg: I can't remember what day.
+David Hogg: Yeah, the project management piece.
+Ashlee Jack: Yes.
+Ashlee Jack: Well, so there's the.
+Ashlee Jack: I think I might be confusing maybe what you built out versus, like, what Kyle did.
+Ashlee Jack: So I need to, like, a refresher on that, because you shared it with me for a little bit last week, but quite honestly, I kind of forgot, so.
+David Hogg: So I built a project management tool for us, and it still needs a couple of tweaks for us, but you were saying we can repurpose that for ice.
+David Hogg: As far as what Kyle built, that would.
+David Hogg: Yes.
+David Hogg: Live with them as well in the immediate once we launch.
+David Hogg: So that's a.
+David Hogg: Like, a knowledge base that's just articles of information.
+David Hogg: Not just.
+David Hogg: But that's articles of information in an organized fashion for them to see the mirrors and the limb videos.
+Ashlee Jack: Gotcha.
+Ashlee Jack: And yours is more of, like, power, like, almost like dashboards and stuff.
+Ashlee Jack: That's like, dashboards tracking, like, the.
+Ashlee Jack: The financials.
+Mark Lohr: Yep.
+David Hogg: So Kyle's is separate from, like, project information.
+David Hogg: Mine is like a UI for project information.
+Ashlee Jack: Got it.
+Ashlee Jack: But it's more of, like.
+Ashlee Jack: It's project financials.
+Ashlee Jack: Right.
+Ashlee Jack: So it's not Project like ops, like the tasks.
+David Hogg: It can be, it can be either.
+David Hogg: It can.
+David Hogg: We just have to tell it what we want it to report on.
+Ashlee Jack: Okay.
+Ashlee Jack: Because I know that one of the things that Mitchell discussed was he wanted more of like a streamlined product task.
+Ashlee Jack: So like if you get, if you win this contract, right, so you win this bridge contract or whatever, like the product task assignment which all are going to go talk to, will also feed into like.
+Ashlee Jack: Okay, now what is like all those tasks under each person, what do they need to do for that project?
+Ashlee Jack: Right.
+Ashlee Jack: So it's like built out.
+Ashlee Jack: So we need to kind of figure out how we could streamline that or set it up where they can easily import those tasks in themselves and then they're able to like track the actual project rather than just the contract to win.
+Ashlee Jack: So we have the contract to win and then once you win the contract, we need those tasks as well.
+Ashlee Jack: So that's like all I think should be in Monday and then Monday will be one project management like system.
+Ashlee Jack: Does that make sense?
+Zaki Quereshy: Yeah.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: Okay.
+Ashlee Jack: And then so erp, I think like, as far as like, I know that Ryan, you said David, but do you want to like throw David Anzac you on the erp because there's a lot of like overlays on that.
+Ryan Botindari: Yeah, I mean, I think the good thing is, is they work so closely together anyway so that when Zach is needed, he'll just plug him in.
+Ryan Botindari: I think that as far as like having a project champion for, you know, our client to know who to speak to, we got to have a point person and I think that should be David, especially with his experience and in the financial space.
+Ryan Botindari: So I think he's the pride and champion.
+Ryan Botindari: As needed, he'll pull in Zaki and then as far as Zacky, that's going to switch over to the open asset especially because what we're doing is a lot similar, very similar to the rag model that he's built.
+Ryan Botindari: So it kind of works out great as far as project champions.
+Rachael Lindblom: Okay.
+Ashlee Jack: And then the ticket system that I know that I talked to about with David, as far as like Kyle, Mark and David, I put on that one and then that one.
+Ashlee Jack: David, can you tell me a little bit more about that one?
+Zaki Quereshy: Yeah, that's.
+David Hogg: It's just from my understanding it was for us to ticket or for the clients to submit tickets to us for reviewing AI specifically for ice, there's a mock up that I sent to Mark last week.
+David Hogg: I may have gotten an email back from Mark.
+David Hogg: I just haven't necessarily been the best about that this last couple days.
+Mark Lohr: It was a case of the Automations email that we talked about that wasn't being monitored.
+Mark Lohr: So David and I talked about it and he created a short form, something that could live or populate directly to Monday.
+Mark Lohr: The client fills it out and populates on Monday.
+Mark Lohr: Mentioned it to less.
+Mark Lohr: He kind of responded saying he thought the automations email already populated on Monday.
+Mark Lohr: I'm not sure whoever he talked to about that prior, but I just am going to get back to him and he said he's fine either way.
+Mark Lohr: A form or an email.
+Mark Lohr: And after talking to David, the form would be the way to go just to keep it consistent and simple.
+Ashlee Jack: And where will the form live?
+Mark Lohr: It'd be just a static link that they would have.
+Mark Lohr: They could put it on their page, wherever they're already filling.
+Mark Lohr: They're already looking for these AI tools or submitting these requests.
+Ashlee Jack: Okay, then I'm going to circle back to that one because I think there was something else that error that I felt like we could do something a little bit easier.
+Ashlee Jack: I'm going to look back at my notes on that one.
+Ashlee Jack: Then the AI powered LLM for ICE Zachy, if you want to touch a.
+Zaki Quereshy: Little bit on that.
+Zaki Quereshy: Yeah.
+Zaki Quereshy: So right now Open Asset is going to be, I think what they want me to help them out with a lot because they have that huge issue with box, you know, trying to move all the files over.
+Zaki Quereshy: So I need to figure out how to make the Open Asset API work for them.
+Zaki Quereshy: So this week I'm connecting a lot with Les Bright, trying to figure that out.
+Zaki Quereshy: And so I already mentioned to Mark earlier I have a blocker I need.
+Zaki Quereshy: I needed him to reach out and figure out what their Open Asset API key so I can start beginning the migration.
+Zaki Quereshy: I can reach out to Les Bright and have him make me like a folder or like you know, a folder in box of what he wants migrated, etc.
+Zaki Quereshy: And so I believe I can migrate for them.
+Zaki Quereshy: Maybe like one like, like one anywhere from like 5 to 10,000 files every couple hours I think, depending on the size of the files.
+Zaki Quereshy: But I have to rewrite the Open Asset API a bit and so then I just go on and finish up my report then.
+Zaki Quereshy: So yeah, once I have that I can begin migrating from David.
+Zaki Quereshy: Like I'll need him to send me the fireflies automation thing, which he already told me he'd do earlier.
+Zaki Quereshy: And I also wanted to say when we were at IC on the AI powered LLM, Jay Thompson, he does their pavement, I believe, Ryan.
+Zaki Quereshy: Their pavement, yeah.
+Zaki Quereshy: So he wants us to work on this app for him where you can use AI to visually find out the quality of the pavement so they can perform better road maintenance and such.
+Zaki Quereshy: And so that's something that's going to be added to the AI powered LLM.
+Zaki Quereshy: Just need to figure out when we're going to do that and then also for EODs and Billy and stuff.
+Zaki Quereshy: So do we want to start using that this week?
+Zaki Quereshy: I would like to know when we want to fully migrate to it.
+Zaki Quereshy: I can send the link out that everyone can use for it, etc.
+Zaki Quereshy: Do we need to streamline or do anything else?
+Zaki Quereshy: It's all ready to go when everyone's ready to go.
+Ashlee Jack: Zach, me and you are meeting at 11 and then I'm going through the auditing of those.
+Ashlee Jack: But I just want to make sure the back end, everything is good before we roll it out to team.
+Ashlee Jack: But then also this week I'm going to be hosting a billing like best practices, like learning session for the whole team that everyone needs to be on as far as like just like what you should be billing, how you should be like and what are the best practices.
+Ashlee Jack: So I'll be doing that this week along with a couple other like just internal standards that are not technology driven.
+Ashlee Jack: It's more of just like, like pto.
+Ashlee Jack: How do you put that in, what are our expenses, how do we communicate with our clients, calendar, etc.
+Ashlee Jack: So I'm gonna connect with you Zacky, after this and then, or at 11 and then we'll go through and audit that together just to make sure because like I said that's like really important that we don't like something just doesn't happen with that because that could be very damaging to the business.
+Ashlee Jack: So yes, we will be rolling it out soon, but let's go through all the steps first.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: And then the AI quality of pavement.
+Ashlee Jack: Who's that with?
+Zaki Quereshy: Jay Thompson.
+Ashlee Jack: Thompson.
+Ashlee Jack: And he said he wants you to build some AI tool to do quality control of or like to test the quality of the pavement.
+Ryan Botindari: Like well the, the before we get into the, the pavement piece of it, the whole idea is, is to analyze the assets, determine the budget and try to figure out like you know, deterioration, things like that.
+Ryan Botindari: They're just trying to figure out the budget.
+Ryan Botindari: That's essentially what they're trying to do.
+Ryan Botindari: Like things only last so long, depending on what has been done, what type of pavement, what where it is, all that stuff.
+Ryan Botindari: So just trying to determine all that stuff.
+Ryan Botindari: One of the little pieces of that is they use Things called Tremble.
+Ryan Botindari: I have.
+Ryan Botindari: Or Agile.
+Ryan Botindari: Sorry, I have a bunch of notes on it.
+Ryan Botindari: But essentially, we just want to make sure we can determine budget a lot easier and win more or have better reoccurring revenue as far as bidding.
+Ryan Botindari: But again, we're going to learn more about that With Jay.
+Ryan Botindari: We just kind of went over it with him when we were in the ICE office, and then we'll set something up.
+Ryan Botindari: But Linda said that was very important to start doing that sooner rather than later.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: And then.
+Ashlee Jack: That's awesome.
+Ashlee Jack: And then, let's see.
+Ashlee Jack: AI prompt training.
+Ashlee Jack: I know that Mark and Kyle, y' all are gonna.
+Mark Lohr: Y', all.
+Ashlee Jack: We're gonna work together to figure out when that lunch can be.
+Ashlee Jack: What.
+Ashlee Jack: Where are we at with that?
+David Hogg: Yes.
+Mark Lohr: Trying to pull up my calendar.
+Mark Lohr: We have a call, I believe this week with.
+David Hogg: Yeah.
+Mark Lohr: Wednesday with Caitlin Williamson, their new training coordinator.
+Mark Lohr: And that's just introduce Kyle and Caitlin be kind of.
+Mark Lohr: We'll be crossing.
+Mark Lohr: Crossing paths on certain things.
+Mark Lohr: So we have that on Wednesday.
+Mark Lohr: And I'm coordinating with Nancy on the lunch and learns she was requesting.
+Mark Lohr: So she's going to set up meeting Cadence once a month.
+Mark Lohr: She would like a subject or topic for each call so that when she sets that up, she can go ahead and put that in the invites.
+Mark Lohr: But do we have a desired time when to start?
+Mark Lohr: This is it.
+Mark Lohr: I think we talked about end of this month or beginning of February for the first one.
+Ashlee Jack: I'd like to go ahead and get it started as soon as possible.
+Ashlee Jack: Obviously, I think that we should be a little bit prepped with some just really good AI prompts that we can just go ahead and pass off to them, but then just some training materials.
+Ashlee Jack: Ryan and I did this before.
+Ashlee Jack: I'm not sure if you were with the team before that when we did our AI training, but just again, best practices.
+Ashlee Jack: So, like, what should you be putting them into?
+Ashlee Jack: Any type of artificial intelligence.
+Ashlee Jack: What needs to be redacted.
+Ashlee Jack: Similar to, like, the best practices for billing.
+Ashlee Jack: It's like, you want to make sure that you're keeping your data and your company safe.
+Ashlee Jack: But then also, like, how do you use it?
+Ashlee Jack: Why is it important to ask it certain things.
+Ashlee Jack: How do you know, like, how do you course correct it, etc.
+Ashlee Jack: Does that all make sense?
+David Hogg: Yeah.
+Ashlee Jack: Okay, cool.
+Ashlee Jack: So if we can try to get one scheduled, because I know with Open Asset, they're going to be using shred AI, and a lot of them have used AI, but I don't know if they necessarily really understand the capabilities.
+Ashlee Jack: So if we can get that scheduled for like as early as next week with like maybe we do like pilot sessions where it's like the marketing team will go first.
+Ashlee Jack: So we'll have like a.
+Ashlee Jack: That one training with them first and then open it up to like now it's like monthly and anyone that wants to learn about it, they just hop on the call.
+Mark Lohr: Okay.
+Mark Lohr: So maybe next week focus just on the market team and the open asset side of things.
+Ashlee Jack: Yeah.
+Ashlee Jack: And then obviously like have Zaki included as well, just because he's AI guru.
+Mark Lohr: Yeah.
+Mark Lohr: I was going to ask who would pretty much lead that training?
+Mark Lohr: Would it be that.
+Mark Lohr: Would it be Zacky?
+Ashlee Jack: I would say like Zachy and Kyle.
+Ryan Botindari: Yeah, I would say Kyle.
+Ryan Botindari: I mean, think of any training.
+Ryan Botindari: Kyle should be leading it.
+Ryan Botindari: You can always have obviously the, you know, the secondary is someone who knows whatever system.
+Mark Lohr: But yeah, the more technical I'll be.
+Zaki Quereshy: There to help them because also if I prompt AI, it's very technical.
+Zaki Quereshy: Usually like I don't use AI for like business tasks and stuff.
+Zaki Quereshy: So definitely Kyle for that.
+Ryan Botindari: Yeah.
+Ryan Botindari: And I think the biggest thing is this is 101.
+Zaki Quereshy: Right.
+Ryan Botindari: We want to make.
+Ryan Botindari: Keep it very simple.
+Ryan Botindari: So let's make sure we do that.
+Mark Lohr: Kyle, does that work for you?
+Kyle Dalton: Easy.
+Mark Lohr: Do we need to.
+Mark Lohr: Cool.
+Kyle Dalton: I'll start creating SOPs and like just like training docs this week for that.
+Mark Lohr: Okay.
+Mark Lohr: If you got any, anything, anyone you want to meet with prior to, let me know.
+Kyle Dalton: Yeah, can do.
+Ashlee Jack: Okay.
+Ashlee Jack: And then let's see.
+Ashlee Jack: I know that this.
+Ashlee Jack: We kind of put a little like pin in just because it's not as costly as it we once thought it was, but I know that they still have a lot of issues with it.
+Ashlee Jack: So let's not put on the back burner necessarily.
+Ashlee Jack: Let's just kind of find out what those issues are and see how we can make it, optimize it a little bit more.
+Ashlee Jack: Is that going to be Ryan or.
+Ashlee Jack: Sorry, is that going to be David or Zachy?
+Ashlee Jack: I know that David was working on.
+Ryan Botindari: It, but David got it.
+Ashlee Jack: Okay.
+Ashlee Jack: And then project assignment.
+Ashlee Jack: That's going to be.
+Ashlee Jack: Well, y' all are going to meet with them today, I think workday.
+Ashlee Jack: There's another, another meeting with them coming up, right?
+Zaki Quereshy: Yep.
+Mark Lohr: Cool.
+Ashlee Jack: All right.
+Ashlee Jack: Did I cover everything?
+Mark Lohr: Ryan, is that workday like the demo?
+Mark Lohr: Was that kind of the follow up to the Last call or that's something different?
+Mark Lohr: It'll be.
+Ryan Botindari: Yeah, it'll be the demo.
+Ryan Botindari: They want to meet prior to the demo to make sure they go over the right things.
+Ryan Botindari: Just because it's kind of like an a la carte kind of situation on how they build it.
+Ryan Botindari: So I know we're going to set that up, but yeah, it would be a.
+Ryan Botindari: It would be the demo.
+Mark Lohr: Did we already get pricing?
+Mark Lohr: What like a ballpark would be.
+Mark Lohr: Because I know that was something.
+Ryan Botindari: Got a ballpark.
+Zaki Quereshy: I mean.
+Ryan Botindari: Yeah, we got a ballpark.
+Ryan Botindari: So these aren't cheap.
+Ryan Botindari: I mean, it's 300 to 400,000.
+Ryan Botindari: And whenever they say those numbers, you can assume that could be a little bit more.
+Mark Lohr: Right.
+Mark Lohr: So.
+Ashlee Jack: Okay.
+Ashlee Jack: Okay.
+Ashlee Jack: All right.
+Zaki Quereshy: And then.
+Ashlee Jack: Okay, so I know that we have Todd who's been working on like the restructuring of Box and also the go to market strategy.
+Ashlee Jack: I saw that you put some time on my calendar for a little bit later today.
+Ashlee Jack: So anything you want to touch on there?
+Todd Fernley: Yes, just first off, just on the previous conversations, if you all think that there's something I should know in terms of being able to better facilitate the communication to like, you know, new clients, whether it's a meeting or documentation, please forward that my way.
+Todd Fernley: Just.
+Todd Fernley: I can't have enough information.
+Todd Fernley: Just want to constantly learn on that.
+Todd Fernley: But yes, to Ashley's point, working on the box restructuring, the Go to Market and then the money.com three new workspaces or sorry, four.
+Todd Fernley: So David has created the structure for memberships, events, partnerships and clients.
+Todd Fernley: And I'm building that as we speak.
+Todd Fernley: There's a lot of overlapping between those projects, but again, any documentation you can send to me just to learn.
+Todd Fernley: And as we build this out, we're going to do the transfer of information in.
+Todd Fernley: So once we have the structure down, we're going to do the actual population content.
+Ashlee Jack: Okay, sounds good.
+Ashlee Jack: All right.
+Ashlee Jack: And then Rachel, you with the, with the website?
+Rachael Lindblom: Yeah, same thing.
+Rachael Lindblom: Just finishing the design of that this week and then figuring out like all the technical stuff as far as I'd like to create like marketing materials that can be sent immediately to initial contacts if there's a website submission, and then taking all the information and wording on the website and turning that into marketing materials that can be used to support Todd or just be pulled from box in any client communications.
+Ashlee Jack: Okay, do you need, does anyone need anything from the team?
+Rachael Lindblom: I don't need anything specific but similar.
+Rachael Lindblom: Like Todd said, if there's anything that you guys think needs to be like immediately on the website, that helps.
+Rachael Lindblom: But I've met with everyone and kind of gotten a feel for those kind of things.
+Rachael Lindblom: But if there's anything else that anyone thinks of, that'd be great.
+Zaki Quereshy: Oh, I, I got something.
+Zaki Quereshy: So when we were at the IC office.
+Zaki Quereshy: You know, Mr. Pavement wasn't the only guy that we talked to.
+Zaki Quereshy: We talked a few other people about what they might need in terms of AI, et cetera, how we can augment their workflows.
+Zaki Quereshy: So what happened was when I would come up to them, Ryan, obviously, you know, being the SWAP fellow he is, would introduce me and he'd be like this our AI guy, Zachy.
+Zaki Quereshy: And so whenever AI is brought up to people, they have this intrinsic resistance to it because what media has told them and scared them is that it's coming for their jobs.
+Zaki Quereshy: And what I always tell them in public, and this is what I truly believe, how AI should be done is that AI is the world's best force multiplier and our marketing should center on us being force multiplier.
+Zaki Quereshy: That makes your smaller team with smaller people run with more efficiency because they think that's coming for their jobs.
+Zaki Quereshy: Because thank you news media, for making everyone think that it's going to save their jobs.
+Zaki Quereshy: Thank you, Microsoft CEO especially thank you.
+Zaki Quereshy: Want to send a special thanks to him, but.
+Zaki Quereshy: So yeah, you should definitely, in our marketing, make a human centered approach.
+Zaki Quereshy: We're going to make you better workers.
+Zaki Quereshy: We're not going to take your jobs.
+Zaki Quereshy: Everyone thinks they're scared of it.
+Zaki Quereshy: They have this apprehension to speak to me about AI problems because they think that I'm going to take their job when all I want to do is make it better.
+Zaki Quereshy: Like, even from my own humanitarian perspective, I don't think I should take people's jobs.
+Rachael Lindblom: So definitely.
+Rachael Lindblom: Awesome.
+Rachael Lindblom: Now that's good insight.
+Rachael Lindblom: Thank you.
+Ashlee Jack: And then last but not least, Kyle, I know that you met with the ICE team as well last week.
+Ashlee Jack: And then how are things going on on your side as far as like, how much do they love it as part of the training?
+Kyle Dalton: I'd say they seem to love the training.
+Kyle Dalton: It went well.
+Kyle Dalton: Had a few questions pop up.
+Kyle Dalton: We're able to answer all those questions for them.
+Kyle Dalton: And I believe if I'm not wrong, Ryan, we're rolling that out the Monday board along with all those trainings this week.
+Mark Lohr: Yep.
+Kyle Dalton: And then I'm working on like AI Gov right now.
+Kyle Dalton: So I've worked on some sops a little bit yesterday and then kind of finish up some like AI governance trainings, sops today.
+Kyle Dalton: And then I'm going to do the shred AI kind of high level learning on that, what they can do, what they can't do, what shouldn't be put in, what should be put in, stuff like that.
+Ashlee Jack: Beautiful.
+Ashlee Jack: For open Asset.
+Zaki Quereshy: Yep.
+Ashlee Jack: Perfect.
+Ashlee Jack: That's what I was about to ask.
+Zaki Quereshy: Okay, cool.
+Ashlee Jack: And you're going to put everything into a.
+Ashlee Jack: Into the knowledge base for them.
+Kyle Dalton: It's all going for ice, Correct.
+Kyle Dalton: Then I can.
+Kyle Dalton: If.
+Ashlee Jack: So, yeah.
+Ashlee Jack: So if you make it generalized, we could probably use it for ICE and also for clients, but if it's specifically with their documentation, then obviously would only use it for ice.
+Ashlee Jack: But yeah, so that works.
+Ashlee Jack: And then was there any, like, anything noteworthy about y' all meeting with ICE last week?
+Ashlee Jack: Ryan, David, Becky, Kyle.
+Ashlee Jack: I know all of y' all went up there.
+Zaki Quereshy: They seem to like that we're people and we're not here to hurt them.
+Kyle Dalton: I mean, I would echo that a little bit.
+David Hogg: They.
+Kyle Dalton: They like that we were down to earth with them there to help them, support them through of what they're doing.
+Kyle Dalton: So.
+Mark Lohr: All right, did have a question what they said.
+David Hogg: And they have a sick office, like, crazy golf simulator.
+David Hogg: They have a golf pro on staff to train people, and they got some.
+Zaki Quereshy: TRX in there for some good CrossFit.
+Zaki Quereshy: You can hit some CrossFit sets in the middle of work.
+Ashlee Jack: All right.
+Ashlee Jack: Anything else?
+Ashlee Jack: Anyone?
+Zaki Quereshy: Mark?
+Mark Lohr: Yeah, I had a question towards Ryan, but you mentioned you met with Mike and Temple regarding how they can possibly help their team with the dashboards or reporting.
+Mark Lohr: Seems to be the main issue with Vantage Point.
+Mark Lohr: Yeah.
+Mark Lohr: Another call on Friday with the small group.
+Mark Lohr: Nancy and I didn't.
+Mark Lohr: And it's just all about reporting, mainly.
+Ryan Botindari: Yeah, yeah, yeah, Yep.
+Ryan Botindari: Mostly dashboards.
+Ryan Botindari: Dashboards and dash parts, they call it.
+Mark Lohr: But, yeah, is that something that, like, does tip.
+Mark Lohr: We'll have, like, a plan to work on their side with that, or do we need to coordinate anything with that?
+Ryan Botindari: Well, we need to coordinate it for sure and work with them on it.
+Ryan Botindari: But, yeah, she has a plan.
+Ryan Botindari: It's just about, you know, helping them get the right dashboards in place, helping them use those dashboards, have Kyle train on them.
+Ryan Botindari: But, yes, she's got a plan.
+Mark Lohr: Okay.
+Ryan Botindari: So does Mike, for that.
+Mark Lohr: For that matter, what is Mike's role?
+Ryan Botindari: Mike is a cfo.
+Mark Lohr: Okay.
+Ryan Botindari: So he'll be super helpful in implementing that.
+Ryan Botindari: We talk a lot about it.
+Ashlee Jack: All right.
+Ashlee Jack: Okay.
+Ashlee Jack: Is there anything else that anyone needs from the team?
+Ashlee Jack: And just as an fy, if you all are ever, like, you know, like, oh, my workload's a little low right now, and I need a little bit more.
+Ashlee Jack: Just come to me or Ryan and we'll definitely.
+Ashlee Jack: There's enough work that we can definitely reassign things, so don't worry if you're like I'm kind of, like, struggling a little bit to buy more work.
+Ashlee Jack: We have it, so just come to us.
+Ashlee Jack: But anyone else need anything?
+Ashlee Jack: Have any blockers?
+Kyle Dalton: Ashley, if you could send over that SOP that you made on AI governance, that would be cool, because then I'll just kind of cross correlate with what I have built.
+Ashlee Jack: Absolutely.
+Ashlee Jack: I'll send that over.
+Ashlee Jack: Yeah, it's pretty in depth.
+Ashlee Jack: I know that.
+Ashlee Jack: Obviously we can get it.
+Ashlee Jack: We can add more to it.
+Ashlee Jack: And then if you can make, like, a digestible one, too, one is going to be like a really long one, kind of like, you know, for maybe for mostly for like their administrative.
+Ashlee Jack: Like, in case the event that something happens.
+Ashlee Jack: This is what the standard is.
+Ashlee Jack: But the.
+Ashlee Jack: We should have like, just like a quick one, like one or two pages for their team and then just like a video explaining how it.
+Ashlee Jack: How they can use it or how they should be using AI with best practices, and then so like a shortened, condensed version and then the one more in depth.
+Ashlee Jack: So I'll send that over to you.
+Ashlee Jack: All right, well, good work, team.
+Ashlee Jack: Excited about this week, getting some shit done.
+Ashlee Jack: And then good luck, guys, at the ICE office, and we'll connect soon.
+Ryan Botindari: All right, guys?
+Ryan Botindari: All right, see y' all soon.
+Mark Lohr: Thanks, everybody.
