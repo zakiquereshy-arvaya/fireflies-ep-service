@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+# Downloaded transcripts
+downloaded_transcripts/
