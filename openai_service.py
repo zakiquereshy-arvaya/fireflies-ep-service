@@ -86,6 +86,13 @@ ACTION_ITEMS_SCHEMA = {
     "strict": True,
 }
 
+ACTION_ITEMS_TEXT_FORMAT = {
+    "type": "json_schema",
+    "name": ACTION_ITEMS_SCHEMA["name"],
+    "schema": ACTION_ITEMS_SCHEMA["schema"],
+    "strict": True,
+}
+
 
 def _format_participants(participants: list[str]) -> str:
     if not participants:
@@ -163,14 +170,14 @@ def generate_action_items(
         f"{transcript_text}\n"
     )
 
-    response = client.responses.create(  # pylint: disable=unexpected-keyword-arg
+    response = client.responses.create(
         model=DEFAULT_MODEL,
         input=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
         max_output_tokens=800,
-        response_format={"type": "json_schema", "json_schema": ACTION_ITEMS_SCHEMA},
+        text={"format": ACTION_ITEMS_TEXT_FORMAT},
     )
 
     output_text = response.output_text.strip()
