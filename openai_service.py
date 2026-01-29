@@ -8,6 +8,7 @@ from openai import OpenAI
 
 load_dotenv()
 DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.2")
+OPENAI_API_KEY_ENV_VAR = "OPENAI_API_KEY"
 
 SYSTEM_PROMPT = """
 You are an expert meeting analyst that extracts follow-up action items from transcripts and assigns them to owners.
@@ -58,6 +59,33 @@ Constraints:
 - The response MUST be valid JSON that can be parsed by json.loads, with no trailing commas and no text before or after the JSON.
 """
 
+ACTION_ITEMS_SCHEMA = {
+    "name": "action_items",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "items": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "title": {"type": "string"},
+                        "owner": {"type": "string"},
+                        "due_date": {"type": ["string", "null"]},
+                        "evidence": {"type": ["string", "null"]},
+                        "confidence": {"type": "number"},
+                    },
+                    "required": ["title", "owner", "due_date", "evidence", "confidence"],
+                    "additionalProperties": False,
+                },
+            }
+        },
+        "required": ["items"],
+        "additionalProperties": False,
+    },
+    "strict": True,
+}
+
 
 def _format_participants(participants: list[str]) -> str:
     if not participants:
@@ -86,12 +114,38 @@ def _normalize_transcript_input(
             lines.append(f"{speaker}: {text}")
     return "\n".join(lines).strip()
 
+
+def _parse_json_output(output_text: str) -> dict[str, Any]:
+    # If your model sometimes wraps JSON in ```json fences, strip them.
+    if output_text.startswith("```"):
+        output_text = output_text.strip("`")
+        if output_text.lower().startswith("json"):
+            output_text = output_text[4:].lstrip()
+
+    try:
+        return json.loads(output_text)
+    except json.JSONDecodeError as exc:
+        # Fallback: extract the first JSON object if extra text slipped in.
+        start = output_text.find("{")
+        end = output_text.rfind("}")
+        if start != -1 and end != -1 and end > start:
+            try:
+                return json.loads(output_text[start : end + 1])
+            except json.JSONDecodeError:
+                pass
+        raise ValueError("OpenAI response was not valid JSON.") from exc
+
 def generate_action_items(
     transcript: str | list[dict[str, str]] | list[Any],
     participants: list[str] | None = None,
     max_items: int = 12,
 ) -> list[dict[str, Any]]:
-    client = OpenAI()
+    api_key = os.getenv(OPENAI_API_KEY_ENV_VAR)
+    if not api_key:
+        raise RuntimeError(
+            f"Missing {OPENAI_API_KEY_ENV_VAR}. Set it to your OpenAI API key."
+        )
+    client = OpenAI(api_key=api_key)
     participants = participants or []
 
     transcript_text = _normalize_transcript_input(transcript)
@@ -109,26 +163,21 @@ def generate_action_items(
         f"{transcript_text}\n"
     )
 
-    response = client.responses.create(
+    response = client.responses.create(  # pylint: disable=unexpected-keyword-arg
         model=DEFAULT_MODEL,
         input=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
         max_output_tokens=800,
+        response_format={"type": "json_schema", "json_schema": ACTION_ITEMS_SCHEMA},
     )
 
     output_text = response.output_text.strip()
     if not output_text:
         raise ValueError("OpenAI response was empty.")
 
-    # If your model sometimes wraps JSON in ```json fences, strip them.
-    if output_text.startswith("```"):
-        output_text = output_text.strip("`")
-        if output_text.lower().startswith("json"):
-            output_text = output_text[4:].lstrip()
-
-    data = json.loads(output_text)
+    data = _parse_json_output(output_text)
     items = data.get("items", [])
     if not isinstance(items, list):
         raise ValueError("OpenAI response JSON did not contain items list.")

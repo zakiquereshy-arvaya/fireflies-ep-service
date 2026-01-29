@@ -1,3 +1,10 @@
 curl -X POST http://localhost:8000/action-items \
   -H "Content-Type: application/json" \
   -d @"/Users/zakiquereshy/arvaya/fireflies-ep-service/fireflies-ep-service/downloaded_transcripts/Arvaya_Consulting_Weekly_Priorities_Sync_2.json"
+
+
+
+curl -X POST https://fireflies-ep-service-production.up.railway.app/action-items \
+  -H "Content-Type: application/json" \
+  -d @"/Users/zakiquereshy/arvaya/fireflies-ep-service/fireflies-ep-service/downloaded_transcripts/Arvaya_Consulting_Weekly_Priorities_Sync_2.json"
+
